@@ -1,0 +1,1134 @@
+,id,name,level,parent
+0,0,Toutes catégories,1,nul
+71,3,Arts et divertissements,2,nul
+582,5,Informatique et électronique,2,nul
+376,7,Finance,2,nul
+748,8,Jeux,2,nul
+856,11,Maison et jardinage,2,nul
+897,12,Marchés commerciaux et industriels,2,nul
+717,13,Internet et télécoms,2,nul
+483,14,Individus et société,2,nul
+1,16,Actualités,2,nul
+1226,18,Shopping,2,nul
+787,19,Justice et administrations,2,nul
+1352,20,Sports,2,nul
+846,22,Livres et littérature,2,nul
+80,23,Arts du spectacle,3,Arts et divertissements
+90,24,Design et arts visuels,3,Arts et divertissements
+988,25,Marketing et publicité,3,Marchés commerciaux et industriels
+1022,28,Services de bureautique,4,Marchés commerciaux et industriels
+474,29,Immobilier,2,nul
+667,30,Matériel informatique,3,Informatique et électronique
+701,31,Programmation,3,Informatique et électronique
+633,32,Logiciels,3,Informatique et électronique
+152,33,Insolite,3,Arts et divertissements
+113,34,Films,3,Arts et divertissements
+155,35,Musique et audio,3,Arts et divertissements
+225,36,TV et vidéo,3,Arts et divertissements
+381,37,Banque,3,Finance
+377,38,Assurance,3,Finance
+750,39,Jeux de cartes,3,Jeux
+766,41,Jeux vidéo et informatiques,3,Jeux
+163,42,Jazz,5,Arts et divertissements
+331,43,Cadeaux en ligne,3,Communautés en ligne
+1329,44,Soins du corps et remise en forme,2,nul
+1092,45,Santé,2,nul
+918,46,Agriculture et sylviculture,3,Marchés commerciaux et industriels
+242,47,Automobiles et véhicules,2,nul
+929,48,Construction et maintenance,3,Marchés commerciaux et industriels
+958,49,Fabrication,3,Marchés commerciaux et industriels
+1038,50,Transport et logistique,3,Marchés commerciaux et industriels
+743,53,Hébergement Web et enregistrement de noms de domaine,4,Internet et télécoms
+533,54,Problèmes sociaux et militantisme,3,Individus et société
+340,55,Rencontres,3,Communautés en ligne
+515,56,Groupes ethniques et identitaires,3,Individus et société
+534,57,Associations caritatives et philanthropie,4,Individus et société
+501,58,Éducation des enfants,5,Individus et société
+552,59,Religions et croyances,3,Individus et société
+350,60,Emploi,3,Emploi et enseignement
+1304,61,Petites annonces,3,Shopping
+21,63,Météo,3,Actualités
+427,64,Antiquités et objets de collection,3,Hobbies et loisirs
+398,65,Hobbies et loisirs,2,nul
+54,66,Animaux et animaux de compagnie,2,nul
+1398,67,Voyages,2,nul
+1280,68,Habillement,3,Shopping
+1308,69,Ressources pour les consommateurs,3,Shopping
+1233,70,Cadeaux et articles pour événements spéciaux,3,Shopping
+29,71,Alimentation et boissons,2,nul
+1278,73,Grands magasins et hypermarchés,3,Shopping
+355,74,Enseignement,3,Emploi et enseignement
+815,75,Droit,3,Justice et administrations
+788,76,Administrations,3,Justice et administrations
+711,77,Technologies d'entreprise,3,Informatique et électronique
+593,78,Électronique grand public,3,Informatique et électronique
+544,82,Problèmes environnementaux,4,Individus et société
+991,83,Services de marketing,4,Marchés commerciaux et industriels
+744,84,Optimisation du référencement et liens sponsorisés,4,Internet et télécoms
+309,89,Pièces et accessoires pour véhicule,3,Automobiles et véhicules
+608,91,Systèmes et composants stéréos,5,Informatique et électronique
+1348,93,Soin de la peau et des ongles,4,Soins du corps et remise en forme
+1338,94,Remise en forme,3,Soins du corps et remise en forme
+1004,95,Fournitures de bureau,4,Marchés commerciaux et industriels
+475,96,Agences immobilières,3,Immobilier
+1312,97,Défense et protection des consommateurs,4,Shopping
+1333,98,Collections et créateurs de mode,4,Soins du corps et remise en forme
+1235,99,Cadeaux,4,Shopping
+1236,100,Cartes de vœux et autres cartes,4,Shopping
+567,101,Spiritualité,4,Individus et société
+341,102,Petites annonces pour rencontres,4,Communautés en ligne
+734,104,Fournisseurs d'accès Internet,4,Internet et télécoms
+761,105,Jeux en ligne,3,Jeux
+394,107,Investissements,3,Finance
+1075,108,Ressources linguistiques,3,Références
+7,112,Actualités des TV et radios,3,Actualités
+530,113,"Lesbiennes, gays, bisexuels et transsexuels",4,Individus et société
+504,115,Hygiène et soin des nourrissons,7,Individus et société
+1361,118,Sports aquatiques,3,Sports
+64,119,Faune,3,Animaux et animaux de compagnie
+864,120,Vaisselle et ustensiles de cuisine,4,Maison et jardinage
+49,121,Épiceries et magasins d'alimentation,3,Alimentation et boissons
+38,122,Cuisine et recettes,3,Alimentation et boissons
+1307,123,Produits du tabac,3,Shopping
+1281,124,Accessoires vestimentaires,4,Shopping
+896,137,Travaux manuels et décoration intérieure,3,Maison et jardinage
+251,138,Entretien des véhicules,3,Automobiles et véhicules
+1343,143,Soins du visage et du corps,3,Soins du corps et remise en forme
+1344,144,Épilation corporelle et faciale,4,Soins du corps et remise en forme
+1350,145,Thalassothérapie et soin du corps,3,Soins du corps et remise en forme
+1341,146,Soins capillaires,3,Soins du corps et remise en forme
+1331,147,Cosmétique et professionnels de la beauté,3,Soins du corps et remise en forme
+327,148,Véhicules tout terrain,3,Automobiles et véhicules
+487,154,Enfants et adolescents,3,Individus et société
+906,157,Ressources humaines,4,Marchés commerciaux et industriels
+887,158,Travaux d'intérieur,3,Maison et jardinage
+829,166,Sécurité publique,3,Justice et administrations
+842,168,Services d'urgence,4,Justice et administrations
+304,170,Permis et immatriculation des véhicules,3,Automobiles et véhicules
+532,171,Indiens d'Amérique,5,Individus et société
+1189,174,Sciences,2,nul
+1412,179,Hôtels et hébergements,3,Voyages
+1394,180,Sports mécaniques,3,Sports
+139,182,Humour,3,Arts et divertissements
+4,184,Actualités des célébrités et du monde du spectacle,3,Actualités
+1332,185,Mode et tendances,3,Soins du corps et remise en forme
+434,188,Clubs et vie nocturne,3,Hobbies et loisirs
+433,189,Clubs et associations,3,Hobbies et loisirs
+346,191,Services de forum et de chat,3,Communautés en ligne
+1155,195,Santé génésique,3,Santé
+1157,198,Contraception,4,Santé
+1164,202,Troubles de l'érection,4,Santé
+1423,203,Voyages aériens,3,Voyages
+1413,205,Location de voitures et taxis,3,Voyages
+1402,206,Croisières et affrètements,3,Voyages
+1403,208,Destinations touristiques,3,Voyages
+137,210,Vente de vidéos et DVD,4,Arts et divertissements
+222,211,Vidéo en ligne,4,Arts et divertissements
+136,213,Souvenirs cinématographiques,4,Arts et divertissements
+190,215,Radio,4,Arts et divertissements
+206,216,Instruments de musique,5,Arts et divertissements
+211,217,Vente de CD et audio,4,Arts et divertissements
+156,218,Arts et souvenirs musicaux,4,Arts et divertissements
+167,220,Musique en streaming et en téléchargement,4,Arts et divertissements
+666,224,Utilitaires logiciels,4,Informatique et électronique
+660,225,Pilotes de périphériques,4,Informatique et électronique
+670,226,Mémoire informatique,5,Informatique et électronique
+606,227,Lecteurs MP3 et multimédias portables,5,Informatique et électronique
+631,228,Ordinateurs de poche et assistants personnels,5,Informatique et électronique
+615,229,Équipement TV et vidéo,4,Informatique et électronique
+312,230,Systèmes audio pour voiture,5,Automobiles et véhicules
+1222,231,Technologie et ingénierie,3,Sciences
+943,233,Énergie et services collectifs,3,Marchés commerciaux et industriels
+1346,234,Maquillage et cosmétiques,4,Soins du corps et remise en forme
+1342,235,Calvitie,4,Soins du corps et remise en forme
+1337,236,Régimes amaigrissants,3,Soins du corps et remise en forme
+1144,237,Vitamines et compléments,4,Santé
+1336,238,Chirurgie esthétique,4,Soins du corps et remise en forme
+1349,239,Tatouages & piercings,3,Soins du corps et remise en forme
+1339,241,Culturisme,4,Soins du corps et remise en forme
+1347,242,Parfums et fragrances,4,Soins du corps et remise en forme
+1345,244,Hygiène et articles de toilette,4,Soins du corps et remise en forme
+1186,245,Soins bucco-dentaires,3,Santé
+1145,246,Ophtalmologie,3,Santé
+1150,248,Pharmacie,3,Santé
+380,249,Assurance maladie,4,Finance
+1179,250,Hôpitaux et cliniques,4,Santé
+1101,251,Équipements et appareils médicaux,3,Santé
+1104,252,Fondations pour la santé et la recherche médicale,3,Santé
+1105,253,Littérature et ressources médicales,3,Santé
+1100,254,Éducation sanitaire et formation médicale,3,Santé
+998,255,Produits pharmaceutiques et biotechnologie,3,Marchés commerciaux et industriels
+1177,256,Services et établissements médicaux,3,Santé
+1093,257,Abus de substances illégales ou toxiques,3,Santé
+1367,258,Football américain,4,Sports
+1363,259,Baseball,4,Sports
+1369,260,Hockey,4,Sports
+1389,261,Golf,4,Sports
+1392,262,Sports de raquette,4,Sports
+1228,263,Articles de sport,3,Shopping
+1364,264,Basketball,4,Sports
+1373,265,Sports d'hiver,3,Sports
+1069,268,Cartes géographiques,4,Références
+878,269,Jardinage et aménagement paysager,3,Maison et jardinage
+880,270,Mobilier de maison,3,Maison et jardinage
+857,271,Appareils ménagers,3,Maison et jardinage
+883,272,Lampes et luminaires,4,Maison et jardinage
+303,273,Motos,3,Automobiles et véhicules
+336,275,Partage de photos et vidéos,3,Communautés en ligne
+50,276,Restaurants,3,Alimentation et boissons
+30,277,Boissons alcoolisées,3,Alimentation et boissons
+385,278,Comptabilité et audit,3,Finance
+388,279,Crédit et prêt,3,Finance
+716,280,Services marchands et systèmes de paiement,5,Informatique et électronique
+428,284,Artisanat,3,Hobbies et loisirs
+952,287,Équipements et matériaux industriels,3,Marchés commerciaux et industriels
+969,288,Industrie chimique,3,Marchés commerciaux et industriels
+1045,289,Fret et transport routier,4,Marchés commerciaux et industriels
+1044,290,Emballage,4,Marchés commerciaux et industriels
+1040,291,Déménagement et installation,4,Marchés commerciaux et industriels
+1328,292,Ventes aux enchères,3,Shopping
+447,293,Mariages,4,Hobbies et loisirs
+1366,294,Football,4,Sports
+1365,296,Cricket,4,Sports
+37,297,Cours de cuisine,3,Alimentation et boissons
+578,298,Seniors et retraités,3,Individus et société
+329,299,Communautés en ligne,2,nul
+740,301,Portails Web,3,Internet et télécoms
+741,302,Services Web,3,Internet et télécoms
+661,303,Systèmes d'exploitation,4,Informatique et électronique
+646,304,Navigateurs et clients Internet,5,Informatique et électronique
+622,305,Télévisions,5,Informatique et électronique
+463,306,Appareils photo et caméscopes,5,Hobbies et loisirs
+464,307,Appareils photo,6,Hobbies et loisirs
+465,308,Caméscopes,6,Hobbies et loisirs
+672,309,Ordinateurs de bureau,4,Informatique et électronique
+673,310,Ordinateurs portables et notebooks,4,Informatique et électronique
+695,311,Mise en réseau,3,Informatique et électronique
+675,312,Périphériques pour ordinateur,4,Informatique et électronique
+658,313,Open Source,4,Informatique et électronique
+708,314,Sécurité informatique,3,Informatique et électronique
+709,315,Antivirus et protection contre les programmes malveillants,4,Informatique et électronique
+85,316,Bandes dessinées et animations,3,Arts et divertissements
+88,317,Dessins animés et mangas,4,Arts et divertissements
+86,318,Bandes dessinées,4,Arts et divertissements
+87,319,Dessins animés,4,Arts et divertissements
+343,320,Sites de classement de photos,4,Communautés en ligne
+339,321,Partage et hébergement de fichiers,3,Communautés en ligne
+1237,323,Fleurs,4,Shopping
+1234,324,Articles de fêtes et célébrations,4,Shopping
+745,326,Programmes d'affiliation,4,Internet et télécoms
+990,327,Relations publiques,4,Marchés commerciaux et industriels
+993,328,Télémarketing,4,Marchés commerciaux et industriels
+999,329,Services professionnels,3,Marchés commerciaux et industriels
+908,330,Recrutement et gestion du personnel,5,Marchés commerciaux et industriels
+907,331,Formation interne,5,Marchés commerciaux et industriels
+967,332,Services documentaires et d'impression,4,Marchés commerciaux et industriels
+1012,333,Mobilier d'entreprise,5,Marchés commerciaux et industriels
+1002,334,Événements d'entreprise,4,Marchés commerciaux et industriels
+1003,335,Salons professionnels et conventions,5,Marchés commerciaux et industriels
+905,336,Présentations commerciales et programmes d'action,4,Marchés commerciaux et industriels
+1023,337,Gestion des infrastructures et des bureaux,5,Marchés commerciaux et industriels
+899,338,Gestion,4,Marchés commerciaux et industriels
+715,340,Services de commerce électronique,4,Informatique et électronique
+712,341,Gestion de la relation clientèle (GRC),4,Informatique et électronique
+714,342,Progiciels de gestion intégrés,4,Informatique et électronique
+713,343,Gestion des données,4,Informatique et électronique
+710,344,Sécurité réseau,4,Informatique et électronique
+697,346,Équipement réseau,4,Informatique et électronique
+696,347,Administration et surveillance des réseaux,4,Informatique et électronique
+1283,350,Pierres précieuses et bijoux,5,Shopping
+1311,352,Comparatifs de prix,5,Shopping
+1309,353,Critiques de produits et comparateurs de prix,4,Shopping
+1048,354,Import-export,4,Marchés commerciaux et industriels
+849,355,Librairies,3,Livres et littérature
+939,356,Défense et industrie aérospatiale,3,Marchés commerciaux et industriels
+230,357,Feuilletons TV,6,Arts et divertissements
+227,358,Programmes et émissions TV,4,Arts et divertissements
+226,359,Chaînes et bouquets de télévision,4,Arts et divertissements
+114,360,Cinéma indien et pakistanais,4,Arts et divertissements
+604,361,Équipement audio,4,Informatique et électronique
+627,362,Gadgets et appareils électroniques portables,4,Informatique et électronique
+436,364,Lotos et loteries,4,Hobbies et loisirs
+1313,365,Réductions et remises,4,Shopping
+808,366,Armée,3,Justice et administrations
+358,367,Cours par correspondance,4,Emploi et enseignement
+371,369,Formation professionnelle et continue,4,Emploi et enseignement
+366,371,Enseignement primaire et secondaire,4,Emploi et enseignement
+361,372,Écoles et universités,4,Emploi et enseignement
+375,373,Tests d'admission et standardisés,4,Emploi et enseignement
+1067,374,Ressources pédagogiques,4,Références
+1057,375,Bibliothèques et musées,3,Références
+1056,377,Annuaires professionnels et particuliers,4,Références
+480,378,Location de maisons et d'appartements,3,Immobilier
+68,379,Accessoires et aliments pour animaux,4,Animaux et animaux de compagnie
+70,380,Vétérinaires,4,Animaux et animaux de compagnie
+784,381,Astuces et conseils pour jeux,5,Jeux
+718,382,Appareils mobiles et sans fil,3,Internet et télécoms
+732,383,Fournisseurs d'accès et opérateurs,3,Internet et télécoms
+735,384,Opérateurs de téléphonie,4,Internet et télécoms
+730,385,Équipement de communication,3,Internet et télécoms
+727,386,Chat vocal et vidéo,4,Internet et télécoms
+736,389,Cartes prépayées,5,Internet et télécoms
+724,390,Téléphones mobiles,4,Internet et télécoms
+747,392,Téléconférence,3,Internet et télécoms
+726,394,E-mail et messagerie,3,Internet et télécoms
+22,396,Politique,3,Actualités
+23,398,Campagnes et élections,4,Actualités
+500,400,Ascendance et généalogie,5,Individus et société
+1154,401,Grossesse et maternité,5,Santé
+505,402,Camps de vacances,6,Individus et société
+507,403,Puériculture,6,Individus et société
+32,404,Bière,4,Alimentation et boissons
+33,405,Vin,4,Alimentation et boissons
+31,406,Alcool,4,Alimentation et boissons
+20,408,Journaux,3,Actualités
+27,409,Politiques de droite,4,Actualités
+28,410,Politiques de gauche,4,Actualités
+853,412,Magazines,3,Livres et littérature
+1148,418,Personnel infirmier,3,Santé
+1107,419,Maladies,3,Santé
+1115,420,Maladies de la peau,4,Santé
+1161,421,Maladies sexuellement transmissibles,4,Santé
+742,422,Conception et développement Web,4,Internet et télécoms
+824,423,Faillites,4,Justice et administrations
+822,424,Droit pénal,4,Justice et administrations
+478,425,Gestion immobilière,3,Immobilier
+826,426,Propriété intellectuelle,4,Justice et administrations
+825,427,Loi sur les accidents et les dommages aux personnes,4,Justice et administrations
+1294,428,T-Shirts,5,Shopping
+1111,429,Cancer,4,Santé
+1303,432,Jouets,3,Shopping
+1081,433,Histoire,4,Références
+584,434,Appareils électroniques et électriques,3,Informatique et électronique
+1190,435,Astronomie,3,Sciences
+1213,436,Mathématiques,3,Sciences
+1167,437,Santé mentale,3,Santé
+318,438,Roues et pneus pour véhicules,4,Automobiles et véhicules
+461,439,Photographie et arts numériques,3,Hobbies et loisirs
+1191,440,Biologie,3,Sciences
+1221,441,Sciences de l'eau et océanographie,4,Sciences
+1198,442,Écologie et environnement,3,Sciences
+1217,443,Géologie,4,Sciences
+1215,444,Physique,3,Sciences
+1200,445,Équipement scientifique,3,Sciences
+1212,446,Institutions scientifiques,3,Sciences
+110,447,Divertissements Flash,4,Arts et divertissements
+553,448,Astrologie et arts divinatoires,4,Individus et société
+154,449,Surnaturel et paranormal,4,Arts et divertissements
+1314,450,Services aux consommateurs,4,Shopping
+1316,451,Garanties et contrats de service,5,Shopping
+1141,456,Nutrition,3,Santé
+1142,457,Régimes spéciaux et restrictifs,4,Santé
+439,458,Cyclisme,3,Hobbies et loisirs
+405,459,Nautisme,4,Hobbies et loisirs
+400,461,Chasse et tir,4,Hobbies et loisirs
+402,462,Pêche,4,Hobbies et loisirs
+477,463,Évaluations et expertises immobilières,3,Immobilier
+379,465,Assurance habitation,4,Finance
+390,466,Crédit immobilier,4,Finance
+378,467,Assurance auto,4,Finance
+391,468,Financement auto,4,Finance
+874,471,Désinsectisation et dératisation,3,Maison et jardinage
+875,472,Employés de maison,3,Maison et jardinage
+243,473,Achat de véhicules,3,Automobiles et véhicules
+1080,474,Sciences humaines,3,Références
+91,477,Architecture,4,Arts et divertissements
+737,485,Moteurs de recherche,3,Internet et télécoms
+650,486,Logiciels de graphisme et d'animation,5,Informatique et électronique
+682,487,Moniteurs et écrans d'ordinateur,5,Informatique et électronique
+698,488,Formats des données et protocoles,4,Informatique et électronique
+618,492,Lecteurs et enregistreurs vidéo,5,Informatique et électronique
+683,493,Périphériques d'entrée,5,Informatique et électronique
+678,494,Imprimantes,6,Informatique et électronique
+680,495,Scanners,6,Informatique et électronique
+685,496,Stockage de données,4,Informatique et électronique
+648,497,Logiciels multimédia,4,Informatique et électronique
+637,498,Logiciels d'entreprise et de productivité,4,Informatique et électronique
+1138,499,Médecines douces et naturelles,3,Santé
+1180,500,Physiothérapie,4,Santé
+733,501,Fournisseurs d'accès au câble et au satellite,4,Internet et télécoms
+470,502,Sous-cultures et centres d'intérêt,3,Hobbies et loisirs
+472,503,Sous-culture gothique,4,Hobbies et loisirs
+347,504,Services et ressources de création de blogs,3,Communautés en ligne
+1197,505,Chimie,3,Sciences
+5,507,Actualités des journaux populaires et tabloïds,3,Actualités
+843,508,Services sociaux,3,Justice et administrations
+571,509,Sciences sociales,3,Individus et société
+577,510,Statistiques démographiques,4,Individus et société
+845,511,Services de conseil,4,Justice et administrations
+1379,512,Lutte,4,Sports
+1358,513,Jeux Olympiques,4,Sports
+1376,514,Sports de combat,3,Sports
+1378,515,Boxe,4,Sports
+1377,516,Arts martiaux,4,Sports
+1370,517,Rugby,4,Sports
+1384,518,Athlétisme,4,Sports
+1390,519,Gymnastique,4,Sports
+572,520,Économie,4,Individus et société
+576,521,Relations internationales,4,Individus et société
+819,522,Droit de la famille,4,Justice et administrations
+1055,527,Annuaires et répertoires,3,Références
+522,528,Sud-asiatiques et diasporas,5,Individus et société
+344,529,Réseaux sociaux,3,Communautés en ligne
+1291,530,Sous-vêtements,4,Shopping
+1305,531,Portails d'achats en ligne et moteurs de recherche,3,Shopping
+635,532,Sonneries et accessoires pour téléphones mobiles,5,Informatique et électronique
+1054,533,Références,2,nul
+1371,534,Supporters,4,Sports
+835,535,Respect de la loi,4,Justice et administrations
+1158,536,Éducation et conseils sexuels,4,Santé
+153,538,Insolite et extrême,4,Arts et divertissements
+109,539,Divertissement et infos diverses,3,Arts et divertissements
+848,540,Fan fiction,3,Livres et littérature
+438,541,Course et randonnée,3,Hobbies et loisirs
+403,542,Randonnées et camping,4,Hobbies et loisirs
+575,543,Psychologie,4,Individus et société
+342,546,Services matrimoniaux,4,Communautés en ligne
+517,547,Américains d'origine africaine,5,Individus et société
+529,548,Latinos et latino-américains,4,Individus et société
+520,549,Est-asiatiques et diasporas,5,Individus et société
+524,550,Culture juive,4,Individus et société
+994,551,Petites entreprises,3,Marchés commerciaux et industriels
+996,552,Marketing multiniveau et opportunités commerciales,4,Marchés commerciaux et industriels
+1380,554,Sports extrêmes,3,Sports
+807,555,Visa et immigration,4,Justice et administrations
+518,556,Arabes et Moyen-Orientaux,4,Individus et société
+1351,557,Massothérapie,4,Soins du corps et remise en forme
+1153,558,Gynécologue obstétricien,4,Santé
+1130,559,Pathologies cardiaques et hypertension,4,Santé
+34,560,Boissons non alcoolisées,3,Alimentation et boissons
+55,563,Animaux de compagnie,3,Animaux et animaux de compagnie
+854,565,Poésie,3,Livres et littérature
+1037,566,Textiles et non-tissés,3,Marchés commerciaux et industriels
+591,567,Assistance technique,3,Informatique et électronique
+401,568,Équitation,4,Hobbies et loisirs
+73,569,Agendas et événementiel,3,Arts et divertissements
+1134,571,Troubles alimentaires,4,Santé
+18,572,Informations locales,3,Actualités
+462,573,Équipement photo et vidéo,4,Hobbies et loisirs
+1319,574,Photothèques,4,Shopping
+224,575,Webcams et visites virtuelles,4,Arts et divertissements
+1318,576,Services photo et vidéo professionnels,3,Shopping
+468,577,Logiciels de photos et de vidéos,4,Hobbies et loisirs
+334,578,Thèmes graphiques et fonds d'écran,4,Communautés en ligne
+516,579,Africains et diasporas,4,Individus et société
+521,580,Natifs des îles du Pacifique et d'Asie du Sud-Est,5,Individus et société
+81,581,Danse,4,Arts et divertissements
+330,582,Blogs et sites personnels,3,Communautés en ligne
+172,585,Gospel et musique chrétienne,5,Arts et divertissements
+164,586,Musique classique,4,Arts et divertissements
+166,587,Musique country,4,Arts et divertissements
+160,588,Dance et musique électronique,4,Arts et divertissements
+161,589,Jazz et blues,4,Arts et divertissements
+197,590,Rock,4,Arts et divertissements
+181,591,Musique latino,5,Arts et divertissements
+173,592,Musique urbaine et hip-hop,4,Arts et divertissements
+177,593,Musiques du monde,4,Arts et divertissements
+957,606,Exploitation minière et métaux,3,Marchés commerciaux et industriels
+56,607,Animaux exotiques,4,Animaux et animaux de compagnie
+852,608,Livres numériques,3,Livres et littérature
+1083,609,Mythes et folklore,4,Références
+305,610,Pick-up et véhicules tout terrain,3,Automobiles et véhicules
+1340,611,Yoga et Pilates,4,Soins du corps et remise en forme
+145,612,Industrie du divertissement et des loisirs,3,Arts et divertissements
+212,613,Supports en ligne,3,Arts et divertissements
+1231,614,Billetterie,3,Shopping
+127,615,Films d'horreur,4,Arts et divertissements
+128,616,Films de science-fiction et fantastiques,4,Arts et divertissements
+195,617,Paroles et partitions,5,Arts et divertissements
+158,618,Concerts et spectacles musicaux,4,Arts et divertissements
+396,619,Pension et retraite,3,Finance
+963,620,Gestion des risques,4,Marchés commerciaux et industriels
+923,621,Production alimentaire,4,Marchés commerciaux et industriels
+756,622,Jeux de rôles,3,Jeux
+1187,623,Vieillesse et soins gériatriques,3,Santé
+1188,624,Maladie d'Alzheimer,4,Santé
+1133,625,SIDA et VIH,4,Santé
+1108,626,Allergies,4,Santé
+1127,627,Asthme,5,Santé
+1109,628,Arthrite,4,Santé
+1132,629,Rhume et grippe,4,Santé
+1112,630,Diabète,4,Santé
+1114,631,Maux de tête et migraines,5,Santé
+1120,632,Maladies infectieuses,4,Santé
+1135,633,Troubles du sommeil,4,Santé
+1178,634,Cabinets médicaux,4,Santé
+1181,635,Procédures médicales,4,Santé
+1165,636,Santé masculine,3,Santé
+1131,638,RGO et troubles digestifs,4,Santé
+1171,639,Stress et anxiété,4,Santé
+1168,640,Dépression,4,Santé
+1169,641,Difficultés d'apprentissage et troubles du développement,4,Santé
+1170,642,Trouble déficitaire de l'attention et hyperactivité,5,Santé
+1143,643,Problèmes de cholestérol,5,Santé
+1175,644,Santé et sécurité au travail,4,Santé
+1147,645,Pédiatrie,3,Santé
+1151,646,Traitements et médicaments,4,Santé
+1163,647,Stérilité,4,Santé
+1152,648,Santé féminine,3,Santé
+1149,649,Aide à domicile et soins de longue durée,4,Santé
+931,650,Fournitures et matériaux de construction,4,Marchés commerciaux et industriels
+937,651,Génie civil,4,Marchés commerciaux et industriels
+930,652,Conseil et passation de marchés dans le secteur du bâtiment,4,Marchés commerciaux et industriels
+92,653,Conception,4,Arts et divertissements
+94,654,Conception graphique,5,Arts et divertissements
+95,655,Conception industrielle et de produits,5,Arts et divertissements
+96,656,Décoration d'intérieur,5,Arts et divertissements
+947,657,Énergies renouvelables et alternatives,4,Marchés commerciaux et industriels
+945,658,Compagnies d'électricité,4,Marchés commerciaux et industriels
+950,659,Pétrole et gaz,4,Marchés commerciaux et industriels
+948,660,Gestion des déchets,4,Marchés commerciaux et industriels
+959,661,Automatisation industrielle,4,Marchés commerciaux et industriels
+1039,662,Aviation,4,Marchés commerciaux et industriels
+1042,663,Coursiers et services de distribution du courrier,5,Marchés commerciaux et industriels
+1043,664,Distribution et logistique,4,Marchés commerciaux et industriels
+1052,665,Transport maritime,4,Marchés commerciaux et industriels
+1051,666,Transport ferroviaire,4,Marchés commerciaux et industriels
+1053,667,Transports urbains,4,Marchés commerciaux et industriels
+941,668,Technologie spatiale,4,Marchés commerciaux et industriels
+940,669,Industrie de la défense,4,Marchés commerciaux et industriels
+971,670,Produits agrochimiques,4,Marchés commerciaux et industriels
+972,671,Produits d'entretien,4,Marchés commerciaux et industriels
+973,672,Revêtements et adhésifs,4,Marchés commerciaux et industriels
+974,673,Teintures et colorants,4,Marchés commerciaux et industriels
+970,674,Plastiques et polymères,4,Marchés commerciaux et industriels
+746,675,Statistiques et analyses Web,4,Internet et télécoms
+471,676,Science-fiction et fantastique,4,Hobbies et loisirs
+484,677,Besoins des personnes handicapées et besoins particuliers,3,Individus et société
+448,678,Vacances et activités saisonnières,4,Hobbies et loisirs
+489,679,Centres d'intérêt des enfants,4,Individus et société
+488,680,Centres d'intérêt des adolescents,4,Individus et société
+531,681,Populations autochtones,4,Individus et société
+527,682,Européens de l'Est,4,Individus et société
+528,683,Européens occidentaux,4,Individus et société
+1070,685,Circulation et transport public,5,Références
+938,686,Urbanisme et aménagement du territoire,4,Marchés commerciaux et industriels
+481,687,Promotion immobilière,3,Immobilier
+399,688,Activités de plein air,3,Hobbies et loisirs
+409,689,Surf et natation,4,Hobbies et loisirs
+847,690,Biographies et citations,3,Livres et littérature
+1066,691,Outils de calcul et de référence,4,Références
+1062,692,Dictionnaires et encyclopédies,4,Références
+1064,693,"Modèles, guides et formulaires",4,Références
+1061,694,Contenus pour bricoleurs et utilisateurs expérimentés,4,Références
+1063,695,Heure et calendriers,4,Références
+1306,696,Produits de luxe,3,Shopping
+1286,697,Chaussures,4,Shopping
+1372,699,Volleyball,4,Sports
+374,700,Ressources pédagogiques et éducatives,4,Emploi et enseignement
+821,701,Droit du travail et de l'emploi,4,Justice et administrations
+805,702,Royauté,4,Justice et administrations
+546,703,Problèmes liés à l'emploi et au travail,4,Individus et société
+830,704,Justice et criminalité,4,Justice et administrations
+834,705,Produits et services de sécurité,4,Justice et administrations
+844,706,Aide sociale et chômage,4,Justice et administrations
+1422,707,Voyages d'aventure,4,Voyages
+1400,708,Bus et trains,3,Voyages
+668,717,Composants informatiques,4,Informatique et électronique
+1030,718,Sous-traitance,4,Marchés commerciaux et industriels
+1013,719,Gestion des biens matériels,4,Marchés commerciaux et industriels
+1001,720,Contrôle qualité et suivi,4,Marchés commerciaux et industriels
+904,721,Procédure commerciale,5,Marchés commerciaux et industriels
+903,722,Planification stratégique,5,Marchés commerciaux et industriels
+909,723,Rémunération et avantages sociaux,5,Marchés commerciaux et industriels
+910,724,Services de paie,5,Marchés commerciaux et industriels
+1021,725,Services d'écriture et de révision,4,Marchés commerciaux et industriels
+1026,726,Services de sécurité et de prévention contre les incendies,4,Marchés commerciaux et industriels
+997,727,Télétravail,4,Marchés commerciaux et industriels
+684,728,Serveurs informatiques,4,Informatique et électronique
+692,729,Stockage réseau,5,Informatique et électronique
+706,730,Outils de développement,4,Informatique et électronique
+702,731,C et C++,4,Informatique et électronique
+703,732,Java,4,Informatique et électronique
+704,733,Langages de script,4,Informatique et électronique
+707,734,Windows et .NET,4,Informatique et électronique
+663,735,Système d'exploitation Mac,5,Informatique et électronique
+662,736,Linux et Unix,5,Informatique et électronique
+664,737,Système d'exploitation Windows,5,Informatique et électronique
+694,739,Tuning et Modding PC,4,Informatique et électronique
+669,740,Cartes son et vidéo,5,Informatique et électronique
+671,741,Puces et processeurs,5,Informatique et électronique
+587,742,Composants électroniques,4,Informatique et électronique
+586,743,Appareils électromécaniques,4,Informatique et électronique
+588,744,Fibre optique et optoélectronique,4,Informatique et électronique
+585,745,Alimentation électrique,4,Informatique et électronique
+590,746,Tests et mesures,4,Informatique et électronique
+919,747,Aquaculture,4,Marchés commerciaux et industriels
+921,748,Équipement agricole,4,Marchés commerciaux et industriels
+924,749,Récoltes de céréales et graines,4,Marchés commerciaux et industriels
+925,750,Sylviculture,4,Marchés commerciaux et industriels
+922,751,Horticulture,4,Marchés commerciaux et industriels
+920,752,Élevage de bétail,4,Marchés commerciaux et industriels
+9,784,Actualités financières,3,Actualités
+8,785,Actualités en matière de technologie,3,Actualités
+460,786,Paintball,3,Hobbies et loisirs
+473,787,Télécommande par radio et modélisme,3,Hobbies et loisirs
+1192,788,Anatomie,4,Sciences
+363,791,Enseignement à domicile,4,Emploi et enseignement
+365,792,Enseignement juridique,4,Emploi et enseignement
+809,793,Anciens combattants,4,Justice et administrations
+632,794,GPS et navigation,4,Informatique et électronique
+942,799,Écoles de commerce,3,Marchés commerciaux et industriels
+1014,800,Gestion des connaissances,4,Marchés commerciaux et industriels
+900,801,Gestion de la chaîne d'approvisionnement,5,Marchés commerciaux et industriels
+352,802,Métiers de développeur,4,Emploi et enseignement
+319,803,Salons de l'automobile,3,Automobiles et véhicules
+657,804,Logiciels pédagogiques,4,Informatique et électronique
+656,805,Polices,6,Informatique et électronique
+326,806,Véhicules puissants et personnalisés,3,Automobiles et véhicules
+644,807,Logiciels Internet,4,Informatique et électronique
+645,808,Gestion de contenu,5,Informatique et électronique
+191,809,Podcasts,5,Arts et divertissements
+324,810,Véhicules hybrides et alternatifs,3,Automobiles et véhicules
+389,811,Cartes de paiement,4,Finance
+393,812,Gestion des dettes,4,Finance
+383,813,Financement des études,4,Finance
+384,814,Change et devises,3,Finance
+253,815,Marques automobiles,3,Automobiles et véhicules
+51,816,Fourniture d'équipements dans le secteur de la restauration,4,Alimentation et boissons
+1110,817,Blessures,4,Santé
+1128,818,Obésité,4,Santé
+1113,819,Gestion de la douleur,4,Santé
+254,820,Acura,4,Automobiles et véhicules
+255,821,Audi,4,Automobiles et véhicules
+257,822,BMW,4,Automobiles et véhicules
+259,823,Cadillac,4,Automobiles et véhicules
+1126,824,Maladies respiratoires,4,Santé
+39,825,Cuisine végétarienne,4,Alimentation et boissons
+260,826,Chevrolet,4,Automobiles et véhicules
+893,827,Portes et fenêtres,4,Maison et jardinage
+873,828,"Chauffage, ventilation et climatisation",3,Maison et jardinage
+934,829,"Clous, vis et éléments de fixation",5,Marchés commerciaux et industriels
+935,830,Équipements et accessoires de plomberie,5,Marchés commerciaux et industriels
+932,831,Bois et plastique,5,Marchés commerciaux et industriels
+894,832,Revêtement de sol,4,Maison et jardinage
+261,833,Chrysler,4,Automobiles et véhicules
+262,834,Citroën,4,Automobiles et véhicules
+953,835,Alternateurs,4,Marchés commerciaux et industriels
+263,836,Dodge,4,Automobiles et véhicules
+954,837,Équipements lourds,4,Marchés commerciaux et industriels
+265,838,Fiat,4,Automobiles et véhicules
+956,839,"Vannes, tuyaux et raccords",5,Marchés commerciaux et industriels
+266,840,Ford,4,Automobiles et véhicules
+927,841,Commerce de détail,3,Marchés commerciaux et industriels
+268,842,GMC,4,Automobiles et véhicules
+269,843,Honda,4,Automobiles et véhicules
+928,844,Équipements et technologie,4,Marchés commerciaux et industriels
+271,845,Hyundai,4,Automobiles et véhicules
+274,846,Jeep,4,Automobiles et véhicules
+332,847,Applications et extensions pour réseaux sociaux,4,Communautés en ligne
+275,848,Kia,4,Automobiles et véhicules
+278,849,Lexus,4,Automobiles et véhicules
+279,850,Lincoln,4,Automobiles et véhicules
+281,851,Mazda,4,Automobiles et véhicules
+282,852,Mercedes-Benz,4,Automobiles et véhicules
+283,853,Mercury,4,Automobiles et véhicules
+285,854,Mitsubishi,4,Automobiles et véhicules
+286,855,Nissan,4,Automobiles et véhicules
+288,856,Peugeot,4,Automobiles et véhicules
+289,857,Pontiac,4,Automobiles et véhicules
+290,858,Porsche,4,Automobiles et véhicules
+291,859,Renault-Samsung,4,Automobiles et véhicules
+294,860,Saturn,4,Automobiles et véhicules
+295,861,Subaru,4,Automobiles et véhicules
+555,862,Bouddhisme,4,Individus et société
+297,863,Toyota,4,Automobiles et véhicules
+556,864,Christianisme,4,Individus et société
+300,865,Volkswagen,4,Automobiles et véhicules
+560,866,Hindouisme,4,Individus et société
+301,867,Volvo,4,Automobiles et véhicules
+561,868,Islam,4,Individus et société
+563,869,Judaïsme,4,Individus et société
+554,870,Auto-assistance et motivation,4,Individus et société
+67,882,Produits et services pour les animaux,3,Animaux et animaux de compagnie
+69,883,Soins et protection des animaux,4,Animaux et animaux de compagnie
+61,884,Oiseaux,4,Animaux et animaux de compagnie
+57,885,Chats,4,Animaux et animaux de compagnie
+59,886,Chiens,4,Animaux et animaux de compagnie
+62,887,Poissons et aquariums,4,Animaux et animaux de compagnie
+58,888,Chevaux,4,Animaux et animaux de compagnie
+60,889,Lapins et rongeurs,4,Animaux et animaux de compagnie
+63,890,Reptiles et amphibiens,4,Animaux et animaux de compagnie
+77,891,Concerts et festivals de musique,4,Arts et divertissements
+196,892,Partitions,5,Arts et divertissements
+157,893,Bandes-son,4,Arts et divertissements
+83,894,Théâtre et arts dramatiques,4,Arts et divertissements
+144,895,Spectacles comiques,4,Arts et divertissements
+267,896,GM-Daewoo,4,Automobiles et véhicules
+293,897,Saab,4,Automobiles et véhicules
+299,898,Vauxhall-Opel,4,Automobiles et véhicules
+595,899,Consoles de jeux,4,Informatique et électronique
+589,900,Références et fiches techniques dans le domaine de l'électronique,4,Informatique et électronique
+636,901,Gratuiciels et partagiciels,4,Informatique et électronique
+647,902,Serveurs proxy et systèmes de filtrage,5,Informatique et électronique
+397,903,Planification financière,3,Finance
+395,904,Transactions sur matières premières et opérations à terme,4,Finance
+962,905,Capital-risque,4,Marchés commerciaux et industriels
+36,906,Bonbons et sucreries,3,Alimentation et boissons
+48,907,Viennoiseries,4,Alimentation et boissons
+45,908,Fruits et légumes,4,Alimentation et boissons
+47,909,Viande et fruits de mer,4,Alimentation et boissons
+46,910,Soupes et ragoûts,4,Alimentation et boissons
+40,911,Cuisines du monde,4,Alimentation et boissons
+41,912,Cuisine asiatique,5,Alimentation et boissons
+42,913,Cuisine latino-américaine,5,Alimentation et boissons
+43,914,Cuisine méditerranéenne,5,Alimentation et boissons
+44,915,Cuisine nord-américaine,5,Alimentation et boissons
+35,916,Thé et café,4,Alimentation et boissons
+52,917,Guides gastronomiques,4,Alimentation et boissons
+53,918,Restauration rapide,4,Alimentation et boissons
+749,919,Jeux à pièces et jeux d'arcade,3,Jeux
+753,920,Jeux de plateau,3,Jeux
+754,921,Échecs et jeux de stratégie abstraits,4,Jeux
+755,922,Jeux de guerre et de stratégie,4,Jeux
+751,923,Jeux de cartes à collectionner,4,Jeux
+752,924,Poker et jeux de casino,4,Jeux
+774,925,Jeux d'aventure,4,Jeux
+782,926,Jeux grand public,4,Jeux
+776,927,Jeux de course automobile et de pilotage,4,Jeux
+775,928,Jeux de combat,4,Jeux
+777,929,Jeux de musique et de danse,4,Jeux
+781,930,Jeux de tir,4,Jeux
+778,931,Jeux de simulation,4,Jeux
+779,932,Jeux de sports,4,Jeux
+780,933,Jeux de stratégie,4,Jeux
+762,935,Jeux massivement multijoueurs,4,Jeux
+757,936,Jeux de société,3,Jeux
+786,937,Puzzles et casse-tête,3,Jeux
+758,938,Jeux de table,3,Jeux
+759,939,Billards,4,Jeux
+760,940,Tennis de table,4,Jeux
+1119,941,Maladies génétiques,4,Santé
+1136,942,Troubles neurologiques,4,Santé
+1184,943,Tests et examens médicaux,5,Santé
+1182,944,Chirurgie,5,Santé
+1106,945,Illustrations et photos médicales,4,Santé
+1173,946,Empoisonnements et overdoses,4,Santé
+1172,947,Santé publique,3,Santé
+867,948,Chambres et salles de bain,3,Maison et jardinage
+876,949,Services et articles de nettoyage,4,Maison et jardinage
+890,950,Outils électriques et de construction,4,Maison et jardinage
+861,951,Articles de cuisine et de repas,3,Maison et jardinage
+885,952,Piscines et spas,3,Maison et jardinage
+879,953,Jardins et terrasses,3,Maison et jardinage
+946,954,Énergie nucléaire,4,Marchés commerciaux et industriels
+975,955,Industrie de l'accueil,3,Marchés commerciaux et industriels
+979,956,Planification d'événements,4,Marchés commerciaux et industriels
+976,957,Industrie de la restauration,4,Marchés commerciaux et industriels
+349,958,Emploi et enseignement,2,nul
+354,959,Ressources et outils de planification de carrière,4,Emploi et enseignement
+353,960,Offres d'emploi,4,Emploi et enseignement
+351,961,CV et books,4,Emploi et enseignement
+791,962,Ambassades et consulats,4,Justice et administrations
+802,963,Pouvoir exécutif,4,Justice et administrations
+803,964,Pouvoir législatif,4,Justice et administrations
+795,965,Organisations multilatérales,4,Justice et administrations
+793,966,Gouvernements nationaux et locaux,4,Justice et administrations
+818,967,Droit constitutionnel et droits civiques,4,Justice et administrations
+250,968,Loi sur la conduite en état d'ébriété,4,Automobiles et véhicules
+828,969,Services juridiques,4,Justice et administrations
+827,970,Responsabilité du fait des produits,4,Justice et administrations
+335,972,Mondes virtuels,3,Communautés en ligne
+523,973,Communautés expatriées,4,Individus et société
+502,974,Adoption,6,Individus et société
+565,975,Sceptiques et non-croyants,4,Individus et société
+538,976,Droits génésiques,4,Individus et société
+441,977,Occasions spéciales,3,Hobbies et loisirs
+337,978,Partage d'images et de photos,4,Communautés en ligne
+338,979,Partage de vidéos,4,Communautés en ligne
+1058,980,Références générales,3,Références
+1193,981,Faune et flore,4,Sciences
+1195,982,Génétique,4,Sciences
+1298,983,Vêtements de sport,4,Shopping
+1293,984,Vêtements confortables,4,Shopping
+1300,985,Vêtements pour enfants,4,Shopping
+1284,986,Sacs à main et porte-monnaie,5,Shopping
+1282,987,Montres,5,Shopping
+1287,988,Costumes,4,Shopping
+1288,989,Lunettes,4,Shopping
+1299,990,Vêtements habillés,4,Shopping
+1285,991,Chapeaux,4,Shopping
+1302,992,Vêtements pour hommes,4,Shopping
+1295,993,Vêtements d'extérieur,4,Shopping
+1297,994,Vêtements de nuit,4,Shopping
+1296,995,Vêtements de bain,4,Shopping
+1292,996,Uniformes et vêtements professionnels,4,Shopping
+1301,997,Vêtements pour femmes,4,Shopping
+1397,998,Sports virtuels,3,Sports
+430,999,Aviation de loisirs,3,Hobbies et loisirs
+1383,1000,Sports individuels,3,Sports
+1362,1001,Sports d'équipe,3,Sports
+404,1002,Activités nautiques,3,Hobbies et loisirs
+1399,1003,Bagages et accessoires de voyage,3,Voyages
+1417,1004,Voyages à thème,3,Voyages
+1419,1005,Écotourisme,4,Voyages
+1408,1006,Sites et bâtiments historiques,4,Voyages
+1406,1007,Parcs régionaux et jardins publics,4,Voyages
+1405,1008,Parcs à thème,4,Voyages
+66,1009,"Zoos, aquariums et réserves",4,Animaux et animaux de compagnie
+1414,1010,Services et agences de voyages,3,Voyages
+1411,1011,Guides et carnets de voyages,3,Voyages
+359,1012,Crèches et jardins d'enfants,4,Emploi et enseignement
+321,1013,Véhicules anciens,3,Automobiles et véhicules
+1071,1014,Guides citadins et locaux,4,Références
+356,1015,Associations et rassemblements d'anciens élèves,4,Emploi et enseignement
+432,1016,Bowling,3,Hobbies et loisirs
+1368,1017,Handball,4,Sports
+1416,1019,Séjours touristiques,4,Voyages
+171,1020,Musique religieuse,4,Arts et divertissements
+170,1021,Musique pop,4,Arts et divertissements
+168,1022,Musique expérimentale et industrielle,4,Arts et divertissements
+169,1023,Musique folk et traditionnelle,4,Arts et divertissements
+203,1024,Technologie et équipements musicaux,4,Arts et divertissements
+205,1025,"Équipements, ressources et services de DJ",5,Arts et divertissements
+210,1026,Technologie d'enregistrement audio,5,Arts et divertissements
+193,1027,Références musicales,4,Arts et divertissements
+194,1028,Composition musicale et théories de la musique,5,Arts et divertissements
+174,1030,Rap et hip-hop,5,Arts et divertissements
+187,1031,Reggae et musique caribéenne,5,Arts et divertissements
+186,1032,Musique sud-asiatique,5,Arts et divertissements
+180,1033,Musique est-asiatique,5,Arts et divertissements
+179,1034,Musique arabe et moyen-orientale,5,Arts et divertissements
+198,1035,Hard-rock et rock progressif,5,Arts et divertissements
+199,1036,Métal (musique),5,Arts et divertissements
+202,1037,Vieux classiques du rock,5,Arts et divertissements
+200,1038,Musique indie et alternative,5,Arts et divertissements
+176,1039,Soul et R&B,5,Arts et divertissements
+162,1040,Blues,5,Arts et divertissements
+201,1041,Punk (musique),5,Arts et divertissements
+597,1043,Nintendo,5,Informatique et électronique
+598,1044,Sony PlayStation,5,Informatique et électronique
+599,1045,Xbox,5,Informatique et électronique
+596,1046,Consoles de jeux portables,5,Informatique et électronique
+141,1047,Comédies (films TV),4,Arts et divertissements
+237,1048,Talk-shows,5,Arts et divertissements
+233,1049,Émissions de télé-réalité,5,Arts et divertissements
+235,1050,Jeux télévisés,5,Arts et divertissements
+239,1055,Spots TV,4,Arts et divertissements
+307,1056,Pick-up,4,Automobiles et véhicules
+308,1057,SUV,4,Automobiles et véhicules
+306,1058,Fourgons et fourgonnettes,4,Automobiles et véhicules
+256,1059,Bentley,4,Automobiles et véhicules
+258,1060,Buick,4,Automobiles et véhicules
+264,1061,Ferrari,4,Automobiles et véhicules
+270,1062,Hummers,4,Automobiles et véhicules
+273,1063,Jaguar,4,Automobiles et véhicules
+276,1064,Lamborghini,4,Automobiles et véhicules
+277,1065,Land Rover,4,Automobiles et véhicules
+280,1066,Maserati,4,Automobiles et véhicules
+284,1067,Mini,4,Automobiles et véhicules
+292,1068,Rolls-Royce,4,Automobiles et véhicules
+298,1069,Scion,5,Automobiles et véhicules
+296,1070,Suzuki,4,Automobiles et véhicules
+725,1071,Smartphones,5,Internet et télécoms
+129,1072,Films documentaires,4,Arts et divertissements
+1396,1073,Sports universitaires,3,Sports
+1407,1074,Plages et îles,4,Voyages
+806,1075,Tribunaux et système judiciaire,4,Justice et administrations
+1029,1076,Signalétique,4,Marchés commerciaux et industriels
+17,1077,Actualités sportives,3,Actualités
+453,1078,Noël,6,Hobbies et loisirs
+451,1079,Halloween,5,Hobbies et loisirs
+476,1080,Annonces immobilières,3,Immobilier
+482,1081,Propriétés de villégiature et multipropriété,3,Immobilier
+1359,1082,Encadrement et entraînements sportifs,3,Sports
+1229,1083,Produits dérivés et objets de collection dans le domaine du sport,4,Shopping
+1068,1084,Références géographiques,3,Références
+74,1085,Annuaires et programmes des salles de cinéma,4,Arts et divertissements
+79,1086,Festivals de cinéma,4,Arts et divertissements
+159,1087,Cours de musique,4,Arts et divertissements
+655,1088,PAO,5,Informatique et électronique
+651,1089,Logiciels de musique et audio,5,Informatique et électronique
+649,1090,Lecteurs audio et vidéo,5,Informatique et électronique
+204,1091,Bibliothèques de sons et samples,5,Arts et divertissements
+652,1092,Formats de fichiers audio et codecs,6,Informatique et électronique
+1084,1093,Philosophie,4,Références
+117,1094,Drames,4,Arts et divertissements
+115,1095,Comédies,4,Arts et divertissements
+131,1096,Films policiers et thrillers,4,Arts et divertissements
+122,1097,Films d'action et d'aventure,4,Arts et divertissements
+120,1098,Films muets,5,Arts et divertissements
+125,1099,Westerns,5,Arts et divertissements
+124,1100,Films de superhéros,5,Arts et divertissements
+123,1101,Films d'arts martiaux,5,Arts et divertissements
+119,1102,Films classiques,4,Arts et divertissements
+121,1103,Films cultes et indépendants,4,Arts et divertissements
+89,1104,Films d'animation,4,Arts et divertissements
+130,1105,Films musicaux,4,Arts et divertissements
+134,1106,Références cinématographiques,4,Arts et divertissements
+135,1107,Présentations et critiques de films,5,Arts et divertissements
+133,1108,Prix pour le cinéma et la télévision,4,Arts et divertissements
+634,1109,Applications et extensions pour mobiles,4,Informatique et électronique
+234,1110,Émissions TV pour la famille,5,Arts et divertissements
+232,1111,Programmes TV sur le milieu judiciaire et la délinquance,6,Arts et divertissements
+236,1112,Programmes TV de science-fiction et fantastique,5,Arts et divertissements
+151,1113,Prix musicaux,5,Arts et divertissements
+150,1114,Labels d'enregistrement,5,Arts et divertissements
+149,1115,Industrie musicale,4,Arts et divertissements
+146,1116,Industrie du cinéma et de la télévision,4,Arts et divertissements
+148,1117,Production TV et cinématographique,5,Arts et divertissements
+367,1118,Enseignement spécialisé,4,Emploi et enseignement
+1409,1119,Stations de ski,4,Voyages
+1404,1120,Lacs et fleuves,4,Voyages
+548,1121,Syndicats et mouvement syndical,5,Individus et société
+458,1122,Saint-Valentin,5,Hobbies et loisirs
+454,1123,Pâques,6,Hobbies et loisirs
+455,1124,Jours fériés juifs,5,Hobbies et loisirs
+459,1125,Thanksgiving,5,Hobbies et loisirs
+1391,1126,Skateboard et rollers,4,Sports
+539,1127,Faim et pauvreté,4,Individus et société
+496,1131,Famille et relations personnelles,3,Individus et société
+499,1132,Famille,4,Individus et société
+510,1133,Mariage,4,Individus et société
+497,1134,Amitié,4,Individus et société
+509,1135,Histoires d'amour,4,Individus et société
+1059,1136,Archives publiques,4,Références
+1065,1137,Formulaires juridiques,5,Références
+960,1138,Finance d'entreprise,3,Marchés commerciaux et industriels
+961,1139,Banque d'affaires,4,Marchés commerciaux et industriels
+247,1140,Bateaux et embarcations,3,Automobiles et véhicules
+1225,1141,Robotique,4,Sciences
+739,1142,Outils en ligne et applications Web,3,Internet et télécoms
+1320,1143,Supports de divertissement,3,Shopping
+1322,1144,Location de supports de divertissement,4,Shopping
+138,1145,Location de cassettes vidéo et DVD,5,Arts et divertissements
+785,1146,Vendeurs de jeux vidéo,4,Jeux
+246,1147,Avions personnels,3,Automobiles et véhicules
+1375,1148,Ski et snowboard,4,Sports
+1374,1149,Patin à glace,4,Sports
+1041,1150,Distribution de colis et de courriers,4,Marchés commerciaux et industriels
+955,1152,Traitement des fluides,4,Marchés commerciaux et industriels
+892,1153,Plomberie,4,Maison et jardinage
+1334,1155,Mode et mannequinat,4,Soins du corps et remise en forme
+621,1157,Systèmes home cinéma,5,Informatique et électronique
+605,1158,Haut-parleurs,5,Informatique et électronique
+898,1159,Activités commerciales,3,Marchés commerciaux et industriels
+964,1160,Prêts commerciaux,4,Marchés commerciaux et industriels
+792,1161,Finances publiques,4,Justice et administrations
+1000,1162,Conseil,4,Marchés commerciaux et industriels
+15,1163,Marchés financiers,4,Actualités
+13,1164,Actualités économiques,4,Actualités
+14,1165,Actualités fiscales,4,Actualités
+540,1166,Logement et développement,4,Individus et société
+99,1167,Peinture,4,Arts et divertissements
+1216,1168,Sciences de la Terre,3,Sciences
+1218,1169,Paléontologie,4,Sciences
+720,1170,Accessoires Bluetooth,5,Internet et télécoms
+719,1171,Accessoires pour appareils sans fil et mobiles,4,Internet et télécoms
+111,1173,Jeux sur la mode et l'habillement,4,Arts et divertissements
+112,1174,Quizz divertissants et enquêtes décalées,4,Arts et divertissements
+889,1175,Couverture,4,Maison et jardinage
+965,1176,Impression et PAO,3,Marchés commerciaux et industriels
+855,1177,Ressources pour rédacteurs,3,Livres et littérature
+479,1178,Immobilier commercial et d'investissement,3,Immobilier
+10,1179,Actualités des entreprises,4,Actualités
+142,1180,Humour politique,4,Arts et divertissements
+831,1181,Criminalité financière,5,Justice et administrations
+731,1182,Équipement radio,4,Internet et télécoms
+851,1183,Littérature pour enfants,3,Livres et littérature
+850,1184,Littérature classique,3,Livres et littérature
+82,1185,Opéra,4,Arts et divertissements
+192,1186,Talk-show radio,5,Arts et divertissements
+238,1187,Références et guides TV,4,Arts et divertissements
+310,1188,Électronique automobile,4,Automobiles et véhicules
+313,1189,Systèmes vidéo pour voiture,5,Automobiles et véhicules
+252,1190,Industrie de l'automobile,3,Automobiles et véhicules
+328,1191,Vélos et accessoires,3,Automobiles et véhicules
+594,1192,Accessoires électroniques,4,Informatique et électronique
+229,1193,Drames (films TV),5,Arts et divertissements
+231,1194,Programmes TV sur l'univers médical,6,Arts et divertissements
+97,1195,Enseignement artistique,4,Arts et divertissements
+1357,1198,Compétitions sportives internationales,3,Sports
+926,1199,Associations professionnelles et corporations,3,Marchés commerciaux et industriels
+995,1200,Création d'entreprise,4,Marchés commerciaux et industriels
+26,1201,Opinions et commentaires,4,Actualités
+25,1202,Enquêtes et sondages politiques,4,Actualités
+24,1203,Critiques et groupes de vigilance,4,Actualités
+19,1204,Journalisme et secteur de l'information,3,Actualités
+526,1205,Discrimination et relations identitaires,4,Individus et société
+1382,1206,Courses automobiles illégales,4,Sports
+1381,1207,Cascades et exploits dangereux,4,Sports
+178,1208,Musique africaine,5,Arts et divertissements
+16,1209,Actualités internationales,3,Actualités
+1232,1210,Brocantes et marchés aux puces,3,Shopping
+1129,1211,ORL,4,Santé
+320,1212,Scooters et cyclomoteurs,3,Automobiles et véhicules
+248,1213,Camping-cars et véhicules aménagés,3,Automobiles et véhicules
+322,1214,Véhicules commerciaux,3,Automobiles et véhicules
+323,1215,Poids lourds et semi-remorques,4,Automobiles et véhicules
+317,1216,Moteurs et transmissions,4,Automobiles et véhicules
+314,1217,Extérieur automobile,4,Automobiles et véhicules
+316,1218,Intérieur automobile,4,Automobiles et véhicules
+1330,1219,Concours de beauté,3,Soins du corps et remise en forme
+1335,1220,Procédures cosmétiques,3,Soins du corps et remise en forme
+804,1221,Renseignement et anti-terrorisme,4,Justice et administrations
+214,1222,Galeries d'images en ligne,4,Arts et divertissements
+333,1223,Clipart et GIF animés,4,Communautés en ligne
+1146,1224,Lunettes et lentilles de contact,4,Santé
+1279,1225,Grossistes et liquidateurs,3,Shopping
+1196,1226,Neurosciences,4,Sciences
+1201,1227,Informatique,3,Sciences
+1290,1228,Services d'habillement,4,Shopping
+1203,1229,Cours d'informatique,4,Sciences
+429,1230,Arts textiles,4,Hobbies et loisirs
+508,1231,Noms de bébés et d'animaux de compagnie,5,Individus et société
+891,1232,Peinture et produits de finition pour la maison,4,Maison et jardinage
+1072,1233,Références techniques,3,Références
+738,1234,Recherche de personnes,4,Internet et télécoms
+1095,1235,Stéroïdes et produits dopants,4,Santé
+1156,1236,Amélioration des performances sexuelles,4,Santé
+1096,1237,Tabac et arrêt du tabac,4,Santé
+1140,1238,Nettoyage du corps et désintoxication,4,Santé
+1139,1239,Acupuncture et médecine chinoise,4,Santé
+12,1240,Résultats financiers des entreprises,5,Actualités
+11,1241,Fusions-acquisitions,5,Actualités
+175,1242,Reggaetón,5,Arts et divertissements
+84,1243,Théâtre musical et comédies musicales,4,Arts et divertissements
+143,1244,Satires et parodies,4,Arts et divertissements
+1426,1245,Navettes et stationnement dans les aéroports,4,Voyages
+449,1246,Carnaval et Mardi gras,5,Hobbies et loisirs
+810,1247,Armée de l'air,4,Justice et administrations
+811,1248,Armée de terre,4,Justice et administrations
+814,1249,Marine nationale,4,Justice et administrations
+812,1250,Fusiliers marins,4,Justice et administrations
+566,1251,Scientologie,4,Individus et société
+1214,1252,Statistiques,4,Sciences
+2,1253,Actualités de la santé,3,Actualités
+1219,1254,Sciences de l'atmosphère,4,Sciences
+1199,1255,Changement climatique et réchauffement de la planète,4,Sciences
+3,1256,Politique sanitaire,4,Actualités
+519,1257,Asiatiques et diasporas,4,Individus et société
+570,1258,Traditions païennes et ésotériques,4,Individus et société
+6,1259,Scandales et enquêtes,4,Actualités
+513,1260,Relations conflictuelles,4,Individus et société
+511,1261,Divorces et séparations,5,Individus et société
+1123,1262,Parasites et parasitoses,5,Santé
+1176,1263,Vaccins et immunisations,4,Santé
+1077,1264,Ressources relatives aux langues étrangères,4,Références
+1079,1265,Outils et ressources de traduction,5,Références
+368,1266,Étude des langues étrangères,4,Emploi et enseignement
+244,1267,"Caractéristiques, avis et comparatifs de véhicules",4,Automobiles et véhicules
+245,1268,Consommation de carburant et prix de l'essence,4,Automobiles et véhicules
+315,1269,Huiles et carburants pour véhicules,4,Automobiles et véhicules
+450,1270,Fêtes et anniversaires,5,Hobbies et loisirs
+457,1271,Nouvel an,5,Hobbies et loisirs
+820,1272,Droit des affaires,4,Justice et administrations
+1360,1273,Événements sportifs,3,Sports
+452,1274,Jours fériés chrétiens,5,Hobbies et loisirs
+456,1275,Jours fériés musulmans,5,Hobbies et loisirs
+435,1276,"Concours, prix et trophées",3,Hobbies et loisirs
+674,1277,Tablettes PC,5,Informatique et électronique
+65,1278,Insectes et entomologie,4,Animaux et animaux de compagnie
+700,1279,RPV et accès distant,4,Informatique et électronique
+537,1280,Droits de l'Homme et libertés,4,Individus et société
+549,1281,Questions relatives à la confidentialité,4,Individus et société
+382,1282,Bourse et aides financières,3,Finance
+387,1283,Planification fiscale et établissement de déclarations fiscales,4,Finance
+833,1284,Prisons et centres éducatifs fermés pour délinquants,5,Justice et administrations
+189,1285,Pop latino-américaine,4,Arts et divertissements
+185,1286,Salsa et musique tropicale,6,Arts et divertissements
+182,1287,Musique brésilienne,6,Arts et divertissements
+813,1288,Histoire militaire,4,Justice et administrations
+373,1289,Publications et conférences universitaires,4,Emploi et enseignement
+763,1290,Jeux et activités pour la famille,3,Jeux
+132,1291,Films tous publics,4,Arts et divertissements
+859,1292,Petit électroménager,4,Maison et jardinage
+858,1293,Gros électroménager,4,Maison et jardinage
+249,1294,Codes de la route et règles de conduite,3,Automobiles et véhicules
+564,1296,Lieux de culte,4,Individus et société
+699,1298,Informatique parallèle et distribuée,4,Informatique et électronique
+1202,1299,Apprentissage automatique et intelligence artificielle,4,Sciences
+592,1300,CAO et FAO,3,Informatique et électronique
+541,1301,Mariage homosexuel,4,Individus et société
+573,1302,Études de communication,4,Individus et société
+574,1303,Art oratoire,5,Individus et société
+498,1304,Éthique-,4,Individus et société
+407,1305,Plongée et activités sous-marines,4,Hobbies et loisirs
+1049,1306,Stationnement,4,Marchés commerciaux et industriels
+949,1307,Recyclage,5,Marchés commerciaux et industriels
+369,1308,Études à l'étranger,4,Emploi et enseignement
+992,1309,Programmes et cartes de fidélité,5,Marchés commerciaux et industriels
+116,1310,Comédies romantiques,4,Arts et divertissements
+773,1311,Jeux d'action et de plate-forme,4,Jeux
+832,1312,Gangs et crime organisé,5,Justice et administrations
+542,1313,Politique d'immigration et problèmes frontaliers,4,Individus et société
+550,1314,Règles et lois relatives à la drogue,4,Individus et société
+469,1315,Formats de fichiers vidéo et codecs,5,Hobbies et loisirs
+796,1316,Politique publique,4,Justice et administrations
+302,1317,Microvoitures et citadines,3,Automobiles et véhicules
+689,1318,Lecteurs Flash et cartes mémoire,5,Informatique et électronique
+687,1319,Lecteurs de carte mémoire,5,Informatique et électronique
+686,1320,Disques durs,5,Informatique et électronique
+688,1321,Lecteurs et graveurs de CD et DVD,5,Informatique et électronique
+693,1322,Supports de stockage CD et DVD,5,Informatique et électronique
+691,1323,Récupération et sauvegarde des données,5,Informatique et électronique
+629,1324,Lecteurs de livres électroniques,5,Informatique et électronique
+207,1325,Guitares,6,Arts et divertissements
+208,1326,Pianos et claviers,6,Arts et divertissements
+209,1327,Tambours et percussions,6,Arts et divertissements
+1116,1328,Maladies endocriniennes,4,Santé
+1118,1329,Maladies thyroïdiennes,5,Santé
+676,1330,"Imprimantes, photocopieurs et télécopieurs",5,Informatique et électronique
+679,1331,Photocopieurs,6,Informatique et électronique
+681,1332,Télécopieurs,6,Informatique et électronique
+677,1333,Encre et toner,6,Informatique et électronique
+617,1334,Écrans et rétroprojecteurs,5,Informatique et électronique
+1401,1339,Covoiturage,3,Voyages
+569,1340,Théologie et étude des religions,4,Individus et société
+386,1341,Logiciels de finances et comptabilité,4,Finance
+772,1342,Émulation de jeux vidéo,4,Jeux
+783,1343,Médias et références sur le jeu,4,Jeux
+643,1344,Tableurs,5,Informatique et électronique
+642,1345,Logiciels de traitement de texte,5,Informatique et électronique
+641,1346,Logiciels de présentation,5,Informatique et électronique
+1047,1347,Garde-meubles,4,Marchés commerciaux et industriels
+886,1348,Rangements et étagères,3,Maison et jardinage
+944,1349,Approvisionnement et traitement de l'eau,4,Marchés commerciaux et industriels
+1097,1350,Traitement de l'alcoolisme et de la toxicomanie,4,Santé
+1094,1351,Dépistage de l'alcoolisme et de la toxicomanie,4,Santé
+485,1352,Technologies assistives,4,Individus et société
+486,1353,Équipement et accessoires de mobilité,5,Individus et société
+626,1354,TV HD,6,Informatique et électronique
+623,1355,Téléviseurs à écran plasma,6,Informatique et électronique
+625,1356,Téléviseurs LCD,6,Informatique et électronique
+624,1357,Téléviseurs à rétroprojection,6,Informatique et électronique
+640,1358,Logiciels de planification et de calendrier,5,Informatique et électronique
+639,1359,Logiciels de gestion de projets,5,Informatique et électronique
+901,1360,Gestion de projets,5,Marchés commerciaux et industriels
+98,1361,Fournitures pour l'artisanat d'art,4,Arts et divertissements
+884,1362,Tapis,4,Maison et jardinage
+882,1363,Horloges,4,Maison et jardinage
+866,1364,Buanderie,3,Maison et jardinage
+872,1365,Salle de bains,4,Maison et jardinage
+868,1366,Chambre,4,Maison et jardinage
+870,1367,Lits et têtes de lit,5,Maison et jardinage
+871,1368,Matelas,5,Maison et jardinage
+869,1369,Literie et linge de maison,5,Maison et jardinage
+881,1370,Canapés et chaises,4,Maison et jardinage
+860,1371,Purificateurs et filtres à eau,4,Maison et jardinage
+877,1372,Jardin d'enfants et salles de jeu,3,Maison et jardinage
+865,1373,Coutellerie et accessoires de découpe,5,Maison et jardinage
+503,1374,Bébés et tout-petits,6,Individus et société
+968,1375,Cartes de visite et papeterie,5,Marchés commerciaux et industriels
+1393,1376,Tennis,5,Sports
+287,1377,Infiniti,5,Automobiles et véhicules
+272,1378,Isuzu,4,Automobiles et véhicules
+729,1379,SMS et messagerie instantanée,4,Internet et télécoms
+325,1380,Véhicules électriques et rechargeables,4,Automobiles et véhicules
+348,1381,Microblogs,4,Communautés en ligne
+723,1382,Systèmes d'exploitation pour mobile,4,Internet et télécoms
+466,1383,Objectifs pour appareils photo,6,Hobbies et loisirs
+467,1384,"Jumelles, télescopes et appareils optiques",5,Hobbies et loisirs
+789,1385,Achats et passation de marchés publics,4,Justice et administrations
+794,1386,Lobbying,4,Justice et administrations
+790,1387,Agences gouvernementales,4,Justice et administrations
+370,1388,Formation et certification,4,Emploi et enseignement
+1418,1389,Agritourisme,4,Voyages
+1421,1390,Visites touristiques,4,Voyages
+1420,1391,Oenotourisme,4,Voyages
+1415,1392,Offices du tourisme et syndicats d'initiative,4,Voyages
+616,1393,Décodeurs et magnétoscopes numériques,5,Informatique et électronique
+619,1394,Lecteurs et enregistreurs Blu-Ray,6,Informatique et électronique
+620,1395,Lecteurs et enregistreurs DVD,6,Informatique et électronique
+607,1396,Oreillettes,5,Informatique et électronique
+764,1397,Dessin et coloriage,4,Jeux
