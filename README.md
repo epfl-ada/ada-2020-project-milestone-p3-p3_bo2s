@@ -28,27 +28,30 @@ We will focus on the period 2004-2020 because it's when google trend start to re
 
 ## Methods
 
-The method we thought of is the following:
+The method we followed is:
 
 1) Extracting and enhancing our datasets 
-2) Applying a classical autoregressive model to predict the time series
-3) Search and select (maybe through ‘spike and slab’ regression) various google trends categories
-4) Visualize our predictions with our new model
-5) Focus on time adjustements of google trend data to answer second research question
-
+2) finding best categories by :
+    - Global correlation
+    - Local correlation
+    - Global improvement
+    - Local improvement
+3) Predict births data
+4) Check which cathegories are the bests
 
 ## Proposed timeline
 
 The work will be decomposed into 3 parts
-- Base predictions and searching for the best indicators
-- Apply our google trends model to check for best predictions
-- Getting a focus on the best period for our trends
+- extract data
+- Apply our google trends models and check for best predictions
+- visualize the data
 
 ## Organization within the team
 
-One person will focus on google and the ‘spike and slab’ regression, searching and understanding the best possible indicators that could apply to birth rates.
-The second member, will focus on developping the best possible code to have a good prediction using different tools.
-The last member will focus on the vizualisation aspect of the research projet and selecting correct time period.
+Thomas : Extract data from google, concentrate on selecting categories by improvement and wordcloud visualisation.
+Pierre : Concentrate on selecting categories by regression analysis and result plotting.
+Kevin :  Writing up the report, checking markdown syntax and preparing the final presentation.
+
 
 ## Questions for TA's
 Is it important to select categories through a ‘spike and slab’ regression or can we just select relevant categories such as "Family" ?
