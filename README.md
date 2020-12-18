@@ -48,9 +48,9 @@ The work will be decomposed into 3 parts
 
 ## Organization within the team
 
-Thomas : Extract data from google, concentrate on selecting categories by improvement and wordcloud visualisation.
-Pierre : Concentrate on selecting categories by regression analysis and result plotting.
-Kevin :  Writing up the report, checking markdown syntax and preparing the final presentation.
+Thomas : Extract data from google, concentrate on selecting categories by improvement and wordcloud visualisation.<br>
+Pierre : Concentrate on selecting categories by regression analysis and result plotting.<br>
+Kevin :  Writing up the report, checking markdown syntax and preparing the final presentation.<br>
 
 
 ## Questions for TA's
