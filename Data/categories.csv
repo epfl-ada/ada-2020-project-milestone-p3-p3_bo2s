@@ -1,0 +1,917 @@
+,id,name,level,parent
+0,0,All categories,1,nul
+1,3,Arts & Entertainment,2,nul
+449,5,Computers & Electronics,2,nul
+584,7,Finance,2,nul
+631,8,Games,2,nul
+843,11,Home & Garden,2,nul
+292,12,Business & Industrial,2,nul
+884,13,Internet & Telecom,2,nul
+1049,14,People & Society,2,nul
+1001,16,News,2,nul
+1249,18,Shopping,2,nul
+942,19,Law & Government,2,nul
+1352,20,Sports,2,nul
+282,22,Books & Literature,2,nul
+131,23,Performing Arts,3,Arts & Entertainment
+153,24,Visual Art & Design,3,Arts & Entertainment
+293,25,Advertising & Marketing,3,Business & Industrial
+351,28,Office Services,4,Business & Industrial
+1165,29,Real Estate,2,nul
+451,30,Computer Hardware,3,Computers & Electronics
+541,31,Programming,3,Computers & Electronics
+548,32,Software,3,Computers & Electronics
+115,33,Offbeat,3,Arts & Entertainment
+32,34,Movies,3,Arts & Entertainment
+58,35,Music & Audio,3,Arts & Entertainment
+136,36,TV & Video,3,Arts & Entertainment
+588,37,Banking,3,Finance
+599,38,Insurance,3,Finance
+636,39,Card Games,3,Games
+639,41,Computer & Video Games,3,Games
+1038,43,Online Goodies,3,Online Communities
+259,44,Beauty & Fitness,2,nul
+670,45,Health,2,nul
+302,46,Agriculture & Forestry,3,Business & Industrial
+172,47,Autos & Vehicles,2,nul
+375,48,Construction & Maintenance,3,Business & Industrial
+417,49,Manufacturing,3,Business & Industrial
+433,50,Transportation & Logistics,3,Business & Industrial
+913,53,Web Hosting & Domain Registration,4,Internet & Telecom
+1119,54,Social Issues & Advocacy,3,People & Society
+1032,55,Dating & Personals,3,Online Communities
+1053,56,Ethnic & Identity Groups,3,People & Society
+1121,57,Charity & Philanthropy,4,People & Society
+1099,59,Religion & Belief,3,People & Society
+937,60,Jobs,3,Jobs & Education
+1275,61,Classifieds,3,Shopping
+1027,63,Weather,3,News
+768,64,Antiques & Collectibles,3,Hobbies & Leisure
+767,65,Hobbies & Leisure,2,nul
+1148,66,Pets & Animals,2,nul
+1398,67,Travel,2,nul
+1251,68,Apparel,3,Shopping
+1316,69,Consumer Resources,3,Shopping
+1334,70,Gifts & Special Event Items,3,Shopping
+606,71,Food & Drink,2,nul
+1340,73,Mass Merchants & Department Stores,3,Shopping
+916,74,Education,3,Jobs & Education
+963,75,Legal,3,Law & Government
+943,76,Government,3,Law & Government
+394,77,Enterprise Technology,3,Business & Industrial
+482,78,Consumer Electronics,3,Computers & Electronics
+1124,82,Environmental Issues,4,People & Society
+294,83,Marketing Services,4,Business & Industrial
+297,84,Search Engine Optimization & Marketing,4,Business & Industrial
+245,89,Vehicle Parts & Accessories,3,Autos & Vehicles
+269,93,Skin & Nail Care,4,Beauty & Fitness
+274,94,Fitness,3,Beauty & Fitness
+353,95,Office Supplies,4,Business & Industrial
+1171,96,Real Estate Agencies,3,Real Estate
+1317,97,Consumer Advocacy & Protection,4,Shopping
+272,98,Fashion Designers & Collections,4,Beauty & Fitness
+1337,99,Gifts,4,Shopping
+1335,100,Cards & Greetings,4,Shopping
+1116,101,Spirituality,4,People & Society
+1034,102,Personals,4,Online Communities
+903,104,ISPs,4,Internet & Telecom
+662,105,Online Games,3,Games
+603,107,Investing,3,Finance
+1196,108,Language Resources,3,Reference
+1002,112,Broadcast & Network News,3,News
+1064,113,Gay-Lesbian-Bisexual-Transgender,4,People & Society
+1392,118,Water Sports,3,Sports
+1162,119,Wildlife,3,Pets & Animals
+875,120,Cookware & Diningware,4,Home & Garden
+624,121,Grocery & Food Retailers,3,Food & Drink
+612,122,Cooking & Recipes,3,Food & Drink
+1349,123,Tobacco Products,3,Shopping
+1257,124,Clothing Accessories,4,Shopping
+872,137,Homemaking & Interior Decor,3,Home & Garden
+244,138,Vehicle Maintenance,3,Autos & Vehicles
+265,143,Face & Body Care,3,Beauty & Fitness
+270,144,Unwanted Body & Facial Hair Removal,4,Beauty & Fitness
+279,145,Spas & Beauty Services,3,Beauty & Fitness
+277,146,Hair Care,3,Beauty & Fitness
+264,147,Cosmetology & Beauty Professionals,3,Beauty & Fitness
+185,148,Off-Road Vehicles,3,Autos & Vehicles
+1090,154,Kids & Teens,3,People & Society
+326,157,Human Resources,4,Business & Industrial
+862,158,Home Improvement,3,Home & Garden
+984,166,Public Safety,3,Law & Government
+989,168,Emergency Services,4,Law & Government
+243,170,Vehicle Licensing & Registration,3,Autos & Vehicles
+1212,174,Science,2,nul
+1407,179,Hotels & Accommodations,3,Travel
+1374,180,Motor Sports,3,Sports
+26,182,Humor,3,Arts & Entertainment
+2,184,Celebrities & Entertainment News,3,Arts & Entertainment
+271,185,Fashion & Style,3,Beauty & Fitness
+770,188,Clubs & Nightlife,3,Hobbies & Leisure
+771,189,Clubs & Organizations,3,Hobbies & Leisure
+1037,191,Forum & Chat Providers,3,Online Communities
+747,195,Reproductive Health,3,Health
+748,198,Birth Control,4,Health
+726,202,Erectile Dysfunction,4,Health
+1399,203,Air Travel,3,Travel
+1404,205,Car Rental & Taxi Services,3,Travel
+1406,206,Cruises & Charters,3,Travel
+1415,208,Tourist Destinations,3,Travel
+45,210,DVD & Video Shopping,4,Arts & Entertainment
+127,211,Online Video,4,Arts & Entertainment
+51,213,Movie Memorabilia,4,Arts & Entertainment
+86,215,Radio,4,Arts & Entertainment
+59,217,CD & Audio Shopping,4,Arts & Entertainment
+70,218,Music Art & Memorabilia,4,Arts & Entertainment
+84,220,Music Streams & Downloads,4,Arts & Entertainment
+580,224,Software Utilities,4,Computers & Electronics
+556,225,Device Drivers,4,Computers & Electronics
+510,229,TV & Video Equipment,4,Computers & Electronics
+1240,231,Engineering & Technology,3,Science
+385,233,Energy & Utilities,3,Business & Industrial
+267,234,Make-Up & Cosmetics,4,Beauty & Fitness
+278,235,Hair Loss,4,Beauty & Fitness
+281,236,Weight Loss,3,Beauty & Fitness
+737,237,Vitamins & Supplements,4,Health
+263,238,Cosmetic Surgery,4,Beauty & Fitness
+261,239,Body Art,3,Beauty & Fitness
+275,241,Bodybuilding,4,Beauty & Fitness
+268,242,Perfumes & Fragrances,4,Beauty & Fitness
+266,244,Hygiene & Toiletries,4,Beauty & Fitness
+738,245,Oral & Dental Care,3,Health
+762,246,Vision Care,3,Health
+740,248,Pharmacy,3,Health
+601,249,Health Insurance,4,Finance
+716,250,Hospitals & Treatment Centers,4,Health
+711,251,Medical Devices & Equipment,3,Health
+708,252,Health Foundations & Medical Research,3,Health
+723,253,Medical Literature & Resources,3,Health
+707,254,Health Education & Medical Training,3,Health
+420,255,Pharmaceuticals & Biotech,3,Business & Industrial
+714,256,Medical Facilities & Services,3,Health
+757,257,Substance Abuse,3,Health
+1382,258,American Football,4,Sports
+1383,259,Baseball,4,Sports
+1388,260,Hockey,4,Sports
+1366,261,Golf,4,Sports
+1368,262,Racquet Sports,4,Sports
+1344,263,Sporting Goods,3,Shopping
+1384,264,Basketball,4,Sports
+1393,265,Winter Sports,3,Sports
+1189,268,Maps,4,Reference
+852,269,Gardening & Landscaping,3,Home & Garden
+857,270,Home Furnishings,3,Home & Garden
+853,271,Home Appliances,3,Home & Garden
+859,272,Lamps & Lighting,4,Home & Garden
+184,273,Motorcycles,3,Autos & Vehicles
+1043,275,Photo & Video Sharing,3,Online Communities
+627,276,Restaurants,3,Food & Drink
+607,277,Alcoholic Beverages,3,Food & Drink
+585,278,Accounting & Auditing,3,Finance
+589,279,Credit & Lending,3,Finance
+775,284,Crafts,3,Hobbies & Leisure
+412,287,Industrial Materials & Equipment,3,Business & Industrial
+369,288,Chemicals Industry,3,Business & Industrial
+436,289,Freight & Trucking,4,Business & Industrial
+443,290,Packaging,4,Business & Industrial
+442,291,Moving & Relocation,4,Business & Industrial
+1274,292,Auctions,3,Shopping
+833,293,Weddings,4,Hobbies & Leisure
+1390,294,Soccer,4,Sports
+1386,296,Cricket,4,Sports
+623,297,Culinary Training,3,Food & Drink
+1118,298,Seniors & Retirement,3,People & Society
+1029,299,Online Communities,2,nul
+908,301,Web Portals,3,Internet & Telecom
+909,302,Web Services,3,Internet & Telecom
+575,303,Operating Systems,4,Computers & Electronics
+475,309,Desktop Computers,4,Computers & Electronics
+477,310,Laptops & Notebooks,4,Computers & Electronics
+535,311,Networking,3,Computers & Electronics
+465,312,Computer Peripherals,4,Computers & Electronics
+574,313,Open Source,4,Computers & Electronics
+479,314,Computer Security,3,Computers & Electronics
+480,315,Antivirus & Malware,4,Computers & Electronics
+3,316,Comics & Animation,3,Arts & Entertainment
+5,317,Anime & Manga,4,Arts & Entertainment
+7,318,Comics,4,Arts & Entertainment
+6,319,Cartoons,4,Arts & Entertainment
+1035,320,Photo Rating Sites,4,Online Communities
+1036,321,File Sharing & Hosting,3,Online Communities
+1336,323,Flowers,4,Shopping
+1338,324,Party & Holiday Supplies,4,Shopping
+910,326,Affiliate Programs,4,Internet & Telecom
+296,327,Public Relations,4,Business & Industrial
+298,328,Telemarketing,4,Business & Industrial
+337,329,Business Services,3,Business & Industrial
+422,332,Document & Printing Services,4,Business & Industrial
+345,334,Corporate Events,4,Business & Industrial
+325,336,Business Plans & Presentations,4,Business & Industrial
+331,338,Management,4,Business & Industrial
+347,340,E-Commerce Services,4,Business & Industrial
+395,341,Customer Relationship Management (CRM),4,Business & Industrial
+399,342,Enterprise Resource Planning (ERP),4,Business & Industrial
+396,343,Data Management,4,Business & Industrial
+481,344,Network Security,4,Computers & Electronics
+539,346,Networking Equipment,4,Computers & Electronics
+538,347,Network Monitoring & Management,4,Computers & Electronics
+1323,353,Product Reviews & Price Comparisons,4,Shopping
+438,354,Import & Export,4,Business & Industrial
+284,355,Book Retailers,3,Books & Literature
+299,356,Aerospace & Defense,3,Business & Industrial
+142,358,TV Shows & Programs,4,Arts & Entertainment
+141,359,TV Networks & Stations,4,Arts & Entertainment
+38,360,Bollywood & South Asian Film,4,Arts & Entertainment
+483,361,Audio Equipment,4,Computers & Electronics
+499,362,Gadgets & Portable Electronics,4,Computers & Electronics
+774,364,Lottery & Sweepstakes,4,Hobbies & Leisure
+1318,365,Coupons & Discount Offers,4,Shopping
+977,366,Military,3,Law & Government
+922,367,Distance Learning,4,Jobs & Education
+935,369,Vocational & Continuing Education,4,Jobs & Education
+929,371,Primary & Secondary Schooling (K-12),4,Jobs & Education
+921,372,Colleges & Universities,4,Jobs & Education
+931,373,Standardized & Admissions Tests,4,Jobs & Education
+1181,374,Educational Resources,4,Reference
+1201,375,Libraries & Museums,3,Reference
+1176,377,Business & Personal Listings,4,Reference
+1166,378,Apartments & Residential Rentals,3,Real Estate
+1151,379,Pet Food & Supplies,4,Pets & Animals
+1152,380,Veterinarians,4,Pets & Animals
+891,382,Mobile & Wireless,3,Internet & Telecom
+901,383,Service Providers,3,Internet & Telecom
+904,384,Phone Service Providers,4,Internet & Telecom
+885,385,Communications Equipment,3,Internet & Telecom
+890,386,Voice & Video Chat,4,Internet & Telecom
+897,390,Mobile Phones,4,Internet & Telecom
+906,392,Teleconferencing,3,Internet & Telecom
+887,394,Email & Messaging,3,Internet & Telecom
+1018,396,Politics,3,News
+1019,398,Campaigns & Elections,4,News
+608,404,Beer,4,Food & Drink
+610,405,Wine,4,Food & Drink
+609,406,Liquor,4,Food & Drink
+1017,408,Newspapers,3,News
+1024,409,Right-Wing Politics,4,News
+1020,410,Left-Wing Politics,4,News
+289,412,Magazines,3,Books & Literature
+732,418,Nursing,3,Health
+676,419,Health Conditions,3,Health
+705,420,Skin Conditions,4,Health
+755,421,Sexually Transmitted Diseases,4,Health
+912,422,Web Design & Development,4,Internet & Telecom
+965,423,Bankruptcy,4,Law & Government
+968,424,Criminal Law,4,Law & Government
+1170,425,Property Management,3,Real Estate
+970,426,Intellectual Property,4,Law & Government
+964,427,Accident & Personal Injury Law,4,Law & Government
+680,429,Cancer,4,Health
+1350,432,Toys,3,Shopping
+1192,433,History,4,Reference
+522,434,Electronics & Electrical,3,Computers & Electronics
+1213,435,Astronomy,3,Science
+1244,436,Mathematics,3,Science
+727,437,Mental Health,3,Health
+254,438,Vehicle Wheels & Tires,4,Autos & Vehicles
+802,439,Photographic & Digital Arts,3,Hobbies & Leisure
+1214,440,Biological Sciences,3,Science
+1237,441,Water & Marine Sciences,4,Science
+1238,442,Ecology & Environment,3,Science
+1235,443,Geology,4,Science
+1246,444,Physics,3,Science
+1247,445,Scientific Equipment,3,Science
+1248,446,Scientific Institutions,3,Science
+24,447,Flash-Based Entertainment,4,Arts & Entertainment
+1100,448,Astrology & Divination,4,People & Society
+117,449,Occult & Paranormal,4,Arts & Entertainment
+1319,450,Customer Services,4,Shopping
+734,456,Nutrition,3,Health
+735,457,Special & Restricted Diets,4,Health
+777,458,Cycling,3,Hobbies & Leisure
+838,459,Boating,4,Hobbies & Leisure
+783,461,Hunting & Shooting,4,Hobbies & Leisure
+781,462,Fishing,4,Hobbies & Leisure
+1169,463,Property Inspections & Appraisals,3,Real Estate
+602,465,Home Insurance,4,Finance
+594,466,Home Financing,4,Finance
+600,467,Auto Insurance,4,Finance
+590,468,Auto Financing,4,Finance
+881,471,Pest Control,3,Home & Garden
+850,472,Domestic Services,3,Home & Garden
+255,473,Vehicle Shopping,3,Autos & Vehicles
+1191,474,Humanities,3,Reference
+154,477,Architecture,4,Arts & Entertainment
+899,485,Search Engines,3,Internet & Telecom
+536,488,Data Formats & Protocols,4,Computers & Electronics
+456,496,Computer Drives & Storage,4,Computers & Electronics
+565,497,Multimedia Software,4,Computers & Electronics
+549,498,Business & Productivity Software,4,Computers & Electronics
+673,499,Alternative & Natural Medicine,3,Health
+722,500,Physical Therapy,4,Health
+902,501,Cable & Satellite Providers,4,Internet & Telecom
+834,502,Subcultures & Niche Interests,3,Hobbies & Leisure
+835,503,Goth Subculture,4,Hobbies & Leisure
+1030,504,Blogging Resources & Services,3,Online Communities
+1220,505,Chemistry,3,Science
+1011,507,Gossip & Tabloid News,3,News
+998,508,Social Services,3,Law & Government
+1138,509,Social Sciences,3,People & Society
+1141,510,Demographics,4,People & Society
+999,511,Counseling Services,4,Law & Government
+1357,512,Wrestling,4,Sports
+1397,513,Olympics,4,Sports
+1354,514,Combat Sports,3,Sports
+1355,515,Boxing,4,Sports
+1356,516,Martial Arts,4,Sports
+1389,517,Rugby,4,Sports
+1372,518,Track & Field,4,Sports
+1367,519,Gymnastics,4,Sports
+1142,520,Economics,4,People & Society
+1143,521,International Relations,4,People & Society
+969,522,Family Law,4,Law & Government
+1175,527,Directories & Listings,3,Reference
+1046,529,Social Networks,3,Online Communities
+1271,530,Undergarments,4,Shopping
+1343,531,Shopping Portals & Search Engines,3,Shopping
+1174,533,Reference,2,nul
+1385,534,Cheerleading,4,Sports
+990,535,Law Enforcement,4,Law & Government
+753,536,Sex Education & Counseling,4,Health
+116,538,Edgy & Bizarre,4,Arts & Entertainment
+22,539,Fun & Trivia,3,Arts & Entertainment
+287,540,Fan Fiction,3,Books & Literature
+814,541,Running & Walking,3,Hobbies & Leisure
+782,542,Hiking & Camping,4,Hobbies & Leisure
+1144,543,Psychology,4,People & Society
+1033,546,Matrimonial Services,4,Online Communities
+1069,548,Latinos & Latin-Americans,4,People & Society
+1067,550,Jewish Culture,4,People & Society
+428,551,Small Business,3,Business & Industrial
+431,552,MLM & Business Opportunities,4,Business & Industrial
+1358,554,Extreme Sports,3,Sports
+962,555,Visa & Immigration,4,Law & Government
+1056,556,Arabs & Middle Easterners,4,People & Society
+280,557,Massage Therapy,4,Beauty & Fitness
+751,558,OBGYN,4,Health
+690,559,Heart & Hypertension,4,Health
+625,560,Non-Alcoholic Beverages,3,Food & Drink
+1153,563,Pets,3,Pets & Animals
+290,565,Poetry,3,Books & Literature
+432,566,Textiles & Nonwovens,3,Business & Industrial
+780,568,Equestrian,4,Hobbies & Leisure
+15,569,Events & Listings,3,Arts & Entertainment
+684,571,Eating Disorders,4,Health
+1016,572,Local News,3,News
+488,573,Camera & Photo Equipment,4,Computers & Electronics
+1342,574,Stock Photography,4,Shopping
+130,575,Webcams & Virtual Tours,4,Arts & Entertainment
+1341,576,Photo & Video Services,3,Shopping
+1040,578,Skins Themes & Wallpapers,4,Online Communities
+1054,579,Africans & Diaspora,4,People & Society
+134,581,Dance,4,Arts & Entertainment
+1042,582,Online Journals & Personal Sites,3,Online Communities
+60,586,Classical Music,4,Arts & Entertainment
+62,587,Country Music,4,Arts & Entertainment
+63,588,Dance & Electronic Music,4,Arts & Entertainment
+66,589,Jazz & Blues,4,Arts & Entertainment
+91,590,Rock Music,4,Arts & Entertainment
+98,592,Urban & Hip-Hop,4,Arts & Entertainment
+103,593,World Music,4,Arts & Entertainment
+419,606,Metals & Mining,3,Business & Industrial
+1157,607,Exotic Pets,4,Pets & Animals
+286,608,E-Books,3,Books & Literature
+1194,609,Myth & Folklore,4,Reference
+188,610,Trucks & SUVs,3,Autos & Vehicles
+276,611,Yoga & Pilates,4,Beauty & Fitness
+8,612,Entertainment Industry,3,Arts & Entertainment
+118,613,Online Media,3,Arts & Entertainment
+1348,614,Ticket Sales,3,Shopping
+50,615,Horror Films,4,Arts & Entertainment
+56,616,Science Fiction & Fantasy Films,4,Arts & Entertainment
+102,618,Vocals & Show Tunes,4,Arts & Entertainment
+605,619,Retirement & Pension,3,Finance
+315,620,Risk Management,4,Business & Industrial
+306,621,Food Production,4,Business & Industrial
+666,622,Roleplaying Games,3,Games
+671,623,Aging & Geriatrics,3,Health
+672,624,Alzheimer's Disease,4,Health
+677,625,AIDS & HIV,4,Health
+678,626,Allergies,4,Health
+679,628,Arthritis,4,Health
+681,629,Cold & Flu,4,Health
+682,630,Diabetes,4,Health
+691,632,Infectious Diseases,4,Health
+706,633,Sleep Disorders,4,Health
+715,634,Doctors' Offices,4,Health
+717,635,Medical Procedures,4,Health
+725,636,Men's Health,3,Health
+689,638,GERD & Digestive Disorders,4,Health
+728,639,Anxiety & Stress,4,Health
+729,640,Depression,4,Health
+730,641,Learning & Developmental Disabilities,4,Health
+744,644,Occupational Health & Safety,4,Health
+739,645,Pediatrics,3,Health
+741,646,Drugs & Medications,4,Health
+750,647,Infertility,4,Health
+764,648,Women's Health,3,Health
+733,649,Assisted Living & Long Term Care,4,Health
+376,650,Building Materials & Supplies,4,Business & Industrial
+382,651,Civil Engineering,4,Business & Industrial
+383,652,Construction Consulting & Contracting,4,Business & Industrial
+157,653,Design,4,Arts & Entertainment
+390,657,Renewable & Alternative Energy,4,Business & Industrial
+386,658,Electricity,4,Business & Industrial
+388,659,Oil & Gas,4,Business & Industrial
+391,660,Waste Management,4,Business & Industrial
+418,661,Factory Automation,4,Business & Industrial
+434,662,Aviation,4,Business & Industrial
+435,664,Distribution & Logistics,4,Business & Industrial
+441,665,Maritime Transport,4,Business & Industrial
+447,666,Rail Transport,4,Business & Industrial
+448,667,Urban Transport,4,Business & Industrial
+301,668,Space Technology,4,Business & Industrial
+300,669,Defense Industry,4,Business & Industrial
+370,670,Agrochemicals,4,Business & Industrial
+371,671,Cleaning Agents,4,Business & Industrial
+372,672,Coatings & Adhesives,4,Business & Industrial
+373,673,Dyes & Pigments,4,Business & Industrial
+374,674,Plastics & Polymers,4,Business & Industrial
+914,675,Web Stats & Analytics,4,Internet & Telecom
+836,676,Science Fiction & Fantasy,4,Hobbies & Leisure
+1050,677,Disabled & Special Needs,3,People & Society
+821,678,Holidays & Seasonal Events,4,Hobbies & Leisure
+1091,679,Children's Interests,4,People & Society
+1098,680,Teen Interests,4,People & Society
+1065,681,Indigenous Peoples,4,People & Society
+1062,682,Eastern Europeans,4,People & Society
+1070,683,Western Europeans,4,People & Society
+384,686,Urban & Regional Planning,4,Business & Industrial
+1168,687,Property Development,3,Real Estate
+779,688,Outdoors,3,Hobbies & Leisure
+841,689,Surf & Swim,4,Hobbies & Leisure
+283,690,Biographies & Quotations,3,Books & Literature
+1179,691,Calculators & Reference Tools,4,Reference
+1180,692,Dictionaries & Encyclopedias,4,Reference
+1182,693,Forms Guides & Templates,4,Reference
+1184,694,"How-To, DIY & Expert Content",4,Reference
+1186,695,Time & Calendars,4,Reference
+1339,696,Luxury Goods,3,Shopping
+1264,697,Footwear,4,Shopping
+1391,699,Volleyball,4,Sports
+933,700,Teaching & Classroom Resources,4,Jobs & Education
+971,701,Labor & Employment Law,4,Law & Government
+960,702,Royalty,4,Law & Government
+1135,703,Work & Labor Issues,4,People & Society
+985,704,Crime & Justice,4,Law & Government
+997,705,Security Products & Services,4,Law & Government
+1000,706,Welfare & Unemployment,4,Law & Government
+1410,707,Adventure Travel,4,Travel
+1403,708,Bus & Rail,3,Travel
+452,717,Computer Components,4,Computers & Electronics
+362,718,Outsourcing,4,Business & Industrial
+365,719,Physical Asset Management,4,Business & Industrial
+366,720,Quality Control & Tracking,4,Business & Industrial
+368,725,Writing & Editing Services,4,Business & Industrial
+349,726,Fire & Security Services,4,Business & Industrial
+430,727,Home Office,4,Business & Industrial
+474,728,Computer Servers,4,Computers & Electronics
+544,730,Development Tools,4,Computers & Electronics
+542,731,C & C++,4,Computers & Electronics
+545,732,Java,4,Computers & Electronics
+546,733,Scripting Languages,4,Computers & Electronics
+547,734,Windows & .NET,4,Computers & Electronics
+476,739,Hardware Modding & Tuning,4,Computers & Electronics
+525,742,Electronic Components,4,Computers & Electronics
+524,743,Electromechanical Devices,4,Computers & Electronics
+526,744,Optoelectronics & Fiber,4,Computers & Electronics
+527,745,Power Supplies,4,Computers & Electronics
+528,746,Test & Measurement,4,Computers & Electronics
+304,747,Aquaculture,4,Business & Industrial
+303,748,Agricultural Equipment,4,Business & Industrial
+305,749,Crops & Seed,4,Business & Industrial
+307,750,Forestry,4,Business & Industrial
+308,751,Horticulture,4,Business & Industrial
+309,752,Livestock,4,Business & Industrial
+317,784,Business News,3,Business & Industrial
+583,785,Technology News,3,Computers & Electronics
+784,786,Paintball,3,Hobbies & Leisure
+811,787,Radio Control & Modeling,3,Hobbies & Leisure
+1215,788,Anatomy,4,Science
+926,791,Homeschooling,4,Jobs & Education
+927,792,Legal Education,4,Jobs & Education
+983,793,Veterans,4,Law & Government
+509,794,GPS & Navigation,4,Computers & Electronics
+311,799,Business Education,3,Business & Industrial
+350,800,Knowledge Management,4,Business & Industrial
+543,802,Developer Jobs,4,Computers & Electronics
+258,803,Vehicle Shows,3,Autos & Vehicles
+557,804,Educational Software,4,Computers & Electronics
+180,806,Custom & Performance Vehicles,3,Autos & Vehicles
+559,807,Internet Software,4,Computers & Electronics
+181,810,Hybrid & Alternative Vehicles,3,Autos & Vehicles
+592,811,Credit Cards,4,Finance
+593,812,Debt Management,4,Finance
+591,813,College Financing,4,Finance
+595,814,Currencies & Foreign Exchange,3,Finance
+192,815,Vehicle Brands,3,Autos & Vehicles
+697,817,Injury,4,Health
+700,818,Obesity,4,Health
+701,819,Pain Management,4,Health
+193,820,Acura,4,Autos & Vehicles
+194,821,Audi,4,Autos & Vehicles
+196,822,BMW,4,Autos & Vehicles
+198,823,Cadillac,4,Autos & Vehicles
+703,824,Respiratory Conditions,4,Health
+617,825,Vegetarian Cuisine,4,Food & Drink
+199,826,Chevrolet,4,Autos & Vehicles
+864,827,Doors & Windows,4,Home & Garden
+873,828,HVAC & Climate Control,3,Home & Garden
+865,832,Flooring,4,Home & Garden
+200,833,Chrysler,4,Autos & Vehicles
+201,834,Citroën,4,Autos & Vehicles
+415,835,Generators,4,Business & Industrial
+202,836,Dodge,4,Autos & Vehicles
+416,837,Heavy Machinery,4,Business & Industrial
+204,838,Fiat,4,Autos & Vehicles
+205,840,Ford,4,Autos & Vehicles
+426,841,Retail Trade,3,Business & Industrial
+207,842,GMC,4,Autos & Vehicles
+208,843,Honda,4,Autos & Vehicles
+427,844,Retail Equipment & Technology,4,Business & Industrial
+210,845,Hyundai,4,Autos & Vehicles
+213,846,Jeep,4,Autos & Vehicles
+1041,847,Social Network Apps & Add-Ons,4,Online Communities
+214,848,Kia,4,Autos & Vehicles
+217,849,Lexus,4,Autos & Vehicles
+218,850,Lincoln,4,Autos & Vehicles
+220,851,Mazda,4,Autos & Vehicles
+221,852,Mercedes-Benz,4,Autos & Vehicles
+222,853,Mercury,4,Autos & Vehicles
+224,854,Mitsubishi,4,Autos & Vehicles
+225,855,Nissan,4,Autos & Vehicles
+227,856,Peugeot,4,Autos & Vehicles
+228,857,Pontiac,4,Autos & Vehicles
+229,858,Porsche,4,Autos & Vehicles
+230,859,Renault-Samsung,4,Autos & Vehicles
+233,860,Saturn,4,Autos & Vehicles
+234,861,Subaru,4,Autos & Vehicles
+1101,862,Buddhism,4,People & Society
+236,863,Toyota,4,Autos & Vehicles
+1102,864,Christianity,4,People & Society
+239,865,Volkswagen,4,Autos & Vehicles
+1106,866,Hinduism,4,People & Society
+240,867,Volvo,4,Autos & Vehicles
+1107,868,Islam,4,People & Society
+1109,869,Judaism,4,People & Society
+1114,870,Self-Help & Motivational,4,People & Society
+1149,882,Animal Products & Services,3,Pets & Animals
+1120,883,Animal Welfare,4,People & Society
+1154,884,Birds,4,Pets & Animals
+1155,885,Cats,4,Pets & Animals
+1156,886,Dogs,4,Pets & Animals
+1158,887,Fish & Aquaria,4,Pets & Animals
+1159,888,Horses,4,Pets & Animals
+1160,889,Rabbits & Rodents,4,Pets & Animals
+1161,890,Reptiles & Amphibians,4,Pets & Animals
+17,891,Concerts & Music Festivals,4,Arts & Entertainment
+97,893,Soundtracks,4,Arts & Entertainment
+132,894,Acting & Theater,4,Arts & Entertainment
+28,895,Live Comedy,4,Arts & Entertainment
+206,896,GM-Daewoo,4,Autos & Vehicles
+232,897,Saab,4,Autos & Vehicles
+238,898,Vauxhall-Opel,4,Autos & Vehicles
+504,899,Game Systems & Consoles,4,Computers & Electronics
+523,900,Data Sheets & Electronics Reference,4,Computers & Electronics
+558,901,Freeware & Shareware,4,Computers & Electronics
+596,903,Financial Planning,3,Finance
+604,904,Commodities & Futures Trading,4,Finance
+316,905,Venture Capital,4,Business & Industrial
+611,906,Candy & Sweets,3,Food & Drink
+613,907,Baked Goods,4,Food & Drink
+614,908,Fruits & Vegetables,4,Food & Drink
+615,909,Meat & Seafood,4,Food & Drink
+616,910,Soups & Stews,4,Food & Drink
+618,911,World Cuisines,4,Food & Drink
+626,916,Coffee & Tea,4,Food & Drink
+628,917,Dining Guides,4,Food & Drink
+629,918,Fast Food,4,Food & Drink
+632,919,Arcade & Coin-Op Games,3,Games
+633,920,Board Games,3,Games
+634,921,Chess & Abstract Strategy Games,4,Games
+635,922,Miniatures & Wargaming,4,Games
+637,923,Collectible Card Games,4,Games
+638,924,Poker & Casino Games,4,Games
+641,925,Adventure Games,4,Games
+642,926,Casual Games,4,Games
+643,927,Driving & Racing Games,4,Games
+644,928,Fighting Games,4,Games
+652,929,Music & Dance Games,4,Games
+653,930,Shooter Games,4,Games
+654,931,Simulation Games,4,Games
+655,932,Sports Games,4,Games
+656,933,Strategy Games,4,Games
+663,935,Massive Multiplayer,4,Games
+664,936,Party Games,3,Games
+665,937,Puzzles & Brainteasers,3,Games
+667,938,Table Games,3,Games
+668,939,Billiards,4,Games
+669,940,Table Tennis,4,Games
+688,941,Genetic Disorders,4,Health
+698,942,Neurological Disorders,4,Health
+719,944,Surgery,5,Health
+724,945,Medical Photos & Illustration,4,Health
+745,946,Poisons & Overdoses,4,Health
+742,947,Public Health,3,Health
+844,948,Bed & Bath,3,Home & Garden
+851,949,Cleaning Supplies & Services,4,Home & Garden
+863,950,Construction & Power Tools,4,Home & Garden
+874,951,Kitchen & Dining,3,Home & Garden
+882,952,Swimming Pools & Spas,3,Home & Garden
+883,953,Yard & Patio,3,Home & Garden
+387,954,Nuclear Energy,4,Business & Industrial
+407,955,Hospitality Industry,3,Business & Industrial
+408,956,Event Planning,4,Business & Industrial
+409,957,Food Service,4,Business & Industrial
+915,958,Jobs & Education,2,nul
+938,959,Career Resources & Planning,4,Jobs & Education
+940,960,Job Listings,4,Jobs & Education
+941,961,Resumes & Portfolios,4,Jobs & Education
+945,962,Embassies & Consulates,4,Law & Government
+946,963,Executive Branch,4,Law & Government
+950,964,Legislative Branch,4,Law & Government
+952,965,Multilateral Organizations,4,Law & Government
+961,966,State & Local Government,4,Law & Government
+967,967,Constitutional Law & Civil Rights,4,Law & Government
+973,969,Legal Services,4,Law & Government
+974,970,Product Liability,4,Law & Government
+1048,972,Virtual Worlds,3,Online Communities
+1063,973,Expatriate Communities,4,People & Society
+1115,975,Skeptics & Non-Believers,4,People & Society
+1133,976,Reproductive Rights,4,People & Society
+815,977,Special Occasions,3,Hobbies & Leisure
+1044,978,Photo & Image Sharing,4,Online Communities
+1045,979,Video Sharing,4,Online Communities
+1177,980,General Reference,3,Reference
+1216,981,Flora & Fauna,4,Science
+1218,982,Genetics,4,Science
+1253,983,Athletic Apparel,4,Shopping
+1254,984,Casual Apparel,4,Shopping
+1256,985,Children's Clothing,4,Shopping
+1261,988,Costumes,4,Shopping
+1262,989,Eyewear,4,Shopping
+1265,990,Formal Wear,4,Shopping
+1266,991,Headwear,4,Shopping
+1267,992,Men's Clothing,4,Shopping
+1268,993,Outerwear,4,Shopping
+1269,994,Sleepwear,4,Shopping
+1270,995,Swimwear,4,Shopping
+1272,996,Uniforms & Workwear,4,Shopping
+1273,997,Women's Clothing,4,Shopping
+1361,998,Fantasy Sports,3,Sports
+812,999,Recreational Aviation,3,Hobbies & Leisure
+1362,1000,Individual Sports,3,Sports
+1381,1001,Team Sports,3,Sports
+837,1002,Water Activities,3,Hobbies & Leisure
+1408,1003,Luggage & Travel Accessories,3,Travel
+1409,1004,Specialty Travel,3,Travel
+1412,1005,Ecotourism,4,Travel
+1417,1006,Historical Sites & Buildings,4,Travel
+1420,1007,Regional Parks & Gardens,4,Travel
+1421,1008,Theme Parks,4,Travel
+1164,1009,Zoos-Aquariums-Preserves,4,Pets & Animals
+1423,1010,Travel Agencies & Services,3,Travel
+1426,1011,Travel Guides & Travelogues,3,Travel
+923,1012,Early Childhood Education,4,Jobs & Education
+177,1013,Classic Vehicles,3,Autos & Vehicles
+1188,1014,City & Local Guides,4,Reference
+918,1015,Alumni & Reunions,4,Jobs & Education
+769,1016,Bowling,3,Hobbies & Leisure
+1387,1017,Handball,4,Sports
+1425,1019,Vacation Offers,4,Travel
+89,1020,Religious Music,4,Arts & Entertainment
+85,1021,Pop Music,4,Arts & Entertainment
+64,1022,Experimental & Industrial Music,4,Arts & Entertainment
+65,1023,Folk & Traditional Music,4,Arts & Entertainment
+72,1024,Music Equipment & Technology,4,Arts & Entertainment
+80,1027,Music Reference,4,Arts & Entertainment
+139,1055,TV Commercials,4,Arts & Entertainment
+190,1056,Trucks,4,Autos & Vehicles
+189,1057,SUVs,4,Autos & Vehicles
+191,1058,Vans & Minivans,4,Autos & Vehicles
+195,1059,Bentley,4,Autos & Vehicles
+197,1060,Buick,4,Autos & Vehicles
+203,1061,Ferrari,4,Autos & Vehicles
+209,1062,Hummer,4,Autos & Vehicles
+212,1063,Jaguar,4,Autos & Vehicles
+215,1064,Lamborghini,4,Autos & Vehicles
+216,1065,Land Rover,4,Autos & Vehicles
+219,1066,Maserati,4,Autos & Vehicles
+223,1067,Mini,4,Autos & Vehicles
+231,1068,Rolls-Royce,4,Autos & Vehicles
+235,1070,Suzuki,4,Autos & Vehicles
+43,1072,Documentary Films,4,Arts & Entertainment
+1353,1073,College Sports,3,Sports
+1416,1074,Beaches & Islands,4,Travel
+944,1075,Courts & Judiciary,4,Law & Government
+367,1076,Signage,4,Business & Industrial
+1025,1077,Sports News,3,News
+1172,1080,Real Estate Listings,3,Real Estate
+1173,1081,Timeshares & Vacation Properties,3,Real Estate
+1379,1082,Sports Coaching & Training,3,Sports
+1346,1083,Sports Memorabilia,4,Shopping
+1187,1084,Geographic Reference,3,Reference
+20,1085,Movie Listings & Theater Showtimes,4,Arts & Entertainment
+18,1086,Film Festivals,4,Arts & Entertainment
+71,1087,Music Education & Instruction,4,Arts & Entertainment
+1195,1093,Philosophy,4,Reference
+44,1094,Drama Films,4,Arts & Entertainment
+27,1095,Comedy Films,4,Arts & Entertainment
+57,1096,"Thriller, Crime & Mystery Films",4,Arts & Entertainment
+33,1097,Action & Adventure Films,4,Arts & Entertainment
+39,1102,Classic Films,4,Arts & Entertainment
+42,1103,Cult & Indie Films,4,Arts & Entertainment
+4,1104,Animated Films,4,Arts & Entertainment
+54,1105,Musical Films,4,Arts & Entertainment
+52,1106,Movie Reference,4,Arts & Entertainment
+563,1109,Mobile Apps & Add-Ons,4,Computers & Electronics
+12,1115,Recording Industry,4,Arts & Entertainment
+9,1116,Film & TV Industry,4,Arts & Entertainment
+930,1118,Special Education,4,Jobs & Education
+1419,1119,Mountain & Ski Resorts,4,Travel
+1418,1120,Lakes & Rivers,4,Travel
+1371,1126,Skate Sports,4,Sports
+1131,1127,Poverty & Hunger,4,People & Society
+1071,1131,Family & Relationships,3,People & Society
+1073,1132,Family,4,People & Society
+1084,1133,Marriage,4,People & Society
+1083,1134,Friendship,4,People & Society
+1087,1135,Romance,4,People & Society
+1185,1136,Public Records,4,Reference
+312,1138,Business Finance,3,Business & Industrial
+314,1139,Investment Banking,4,Business & Industrial
+175,1140,Boats & Watercraft,3,Autos & Vehicles
+1242,1141,Robotics,4,Science
+907,1142,Web Apps & Online Tools,3,Internet & Telecom
+1326,1143,Entertainment Media,3,Shopping
+1331,1144,Entertainment Media Rentals,4,Shopping
+658,1146,Video Game Retailers,4,Games
+186,1147,Personal Aircraft,3,Autos & Vehicles
+1395,1148,Skiing & Snowboarding,4,Sports
+1394,1149,Ice Skating,4,Sports
+439,1150,Mail & Package Delivery,4,Business & Industrial
+413,1152,Fluid Handling,4,Business & Industrial
+869,1153,Plumbing,4,Home & Garden
+273,1155,Fashion Modeling,4,Beauty & Fitness
+324,1159,Business Operations,3,Business & Industrial
+313,1160,Commercial Lending,4,Business & Industrial
+953,1161,Public Finance,4,Law & Government
+344,1162,Consulting,4,Business & Industrial
+322,1163,Financial Markets,4,Business & Industrial
+321,1164,Economy News,4,Business & Industrial
+323,1165,Fiscal Policy News,4,Business & Industrial
+1127,1166,Housing & Development,4,People & Society
+162,1167,Painting,4,Arts & Entertainment
+1232,1168,Earth Sciences,3,Science
+1236,1169,Paleontology,4,Science
+892,1171,Mobile & Wireless Accessories,4,Internet & Telecom
+23,1173,Dress-Up & Fashion Games,4,Arts & Entertainment
+25,1174,Fun Tests & Silly Surveys,4,Arts & Entertainment
+870,1175,Roofing,4,Home & Garden
+421,1176,Printing & Publishing,3,Business & Industrial
+291,1177,Writers Resources,3,Books & Literature
+1167,1178,Commercial & Investment Real Estate,3,Real Estate
+318,1179,Company News,4,Business & Industrial
+29,1180,Political Humor,4,Arts & Entertainment
+886,1182,Radio Equipment,4,Internet & Telecom
+285,1183,Children's Literature,3,Books & Literature
+288,1184,Literary Classics,3,Books & Literature
+135,1185,Opera,4,Arts & Entertainment
+140,1187,TV Guides & Reference,4,Arts & Entertainment
+248,1188,Car Electronics,4,Autos & Vehicles
+173,1190,Automotive Industry,3,Autos & Vehicles
+174,1191,Bicycles & Accessories,3,Autos & Vehicles
+498,1192,Electronic Accessories,4,Computers & Electronics
+156,1195,Arts Education,4,Arts & Entertainment
+1396,1198,World Sports Competitions,3,Sports
+425,1199,Professional & Trade Associations,3,Business & Industrial
+429,1200,Business Formation,4,Business & Industrial
+1022,1201,Opinion & Commentary,4,News
+1023,1202,Political Polls & Surveys,4,News
+1021,1203,Media Critics & Watchdogs,4,News
+1015,1204,Journalism & News Industry,3,News
+1061,1205,Discrimination & Identity Relations,4,People & Society
+1359,1206,Drag & Street Racing,4,Sports
+1360,1207,Stunts & Dangerous Feats,4,Sports
+1028,1209,World News,3,News
+1347,1210,Swap Meets & Outdoor Markets,3,Shopping
+683,1211,Ear Nose & Throat,4,Health
+187,1212,Scooters & Mopeds,3,Autos & Vehicles
+176,1213,Campers & RVs,3,Autos & Vehicles
+178,1214,Commercial Vehicles,3,Autos & Vehicles
+179,1215,Cargo Trucks & Trailers,4,Autos & Vehicles
+252,1216,Engine & Transmission,4,Autos & Vehicles
+246,1217,Auto Exterior,4,Autos & Vehicles
+247,1218,Auto Interior,4,Autos & Vehicles
+260,1219,Beauty Pageants,3,Beauty & Fitness
+262,1220,Cosmetic Procedures,3,Beauty & Fitness
+949,1221,Intelligence & Counterterrorism,4,Law & Government
+123,1222,Online Image Galleries,4,Arts & Entertainment
+1039,1223,Clip Art & Animated GIFs,4,Online Communities
+763,1224,Eyeglasses & Contacts,4,Health
+1351,1225,Wholesalers & Liquidators,3,Shopping
+1219,1226,Neuroscience,4,Science
+1221,1227,Computer Science,3,Science
+1252,1228,Apparel Services,4,Shopping
+776,1230,Fiber & Textile Arts,4,Hobbies & Leisure
+867,1232,House Painting & Finishing,4,Home & Garden
+1209,1233,Technical Reference,3,Reference
+900,1234,People Search,4,Internet & Telecom
+761,1235,Steroids & Performance-Enhancing Drugs,4,Health
+754,1236,Sexual Enhancement,4,Health
+760,1237,Smoking & Smoking Cessation,4,Health
+675,1238,Cleansing & Detoxification,4,Health
+674,1239,Acupuncture & Chinese Medicine,4,Health
+133,1243,Broadway & Musical Theater,4,Arts & Entertainment
+30,1244,Spoofs & Satire,4,Arts & Entertainment
+1400,1245,Airport Parking & Transportation,4,Travel
+978,1247,Air Force,4,Law & Government
+979,1248,Army,4,Law & Government
+982,1249,Navy,4,Law & Government
+980,1250,Marines,4,Law & Government
+1113,1251,Scientology,4,People & Society
+1245,1252,Statistics,4,Science
+709,1253,Health News,3,Health
+1233,1254,Atmospheric Science,4,Science
+1239,1255,Climate Change & Global Warming,4,Science
+710,1256,Health Policy,4,Health
+1057,1257,Asians & Diaspora,4,People & Society
+1111,1258,Pagan & Esoteric Traditions,4,People & Society
+1012,1259,Scandals & Investigations,4,News
+1088,1260,Troubled Relationships,4,People & Society
+1198,1264,Foreign Language Resources,4,Reference
+257,1267,"Vehicle Specs, Reviews & Comparisons",4,Autos & Vehicles
+256,1268,Fuel Economy & Gas Prices,4,Autos & Vehicles
+253,1269,Vehicle Fuels & Lubricants,4,Autos & Vehicles
+966,1272,Business & Corporate Law,4,Law & Government
+1373,1273,Live Sporting Events,3,Sports
+772,1276,"Contests, Awards & Prizes",3,Hobbies & Leisure
+540,1279,VPN & Remote Access,4,Computers & Electronics
+1128,1280,Human Rights & Liberties,4,People & Society
+1132,1281,Privacy Issues,4,People & Society
+597,1282,Grants & Financial Assistance,3,Finance
+587,1283,Tax Preparation & Planning,4,Finance
+917,1289,Academic Conferences & Publications,4,Jobs & Education
+659,1290,Family-Oriented Games & Activities,3,Games
+47,1291,Family Films,4,Arts & Entertainment
+855,1292,Small Kitchen Appliances,4,Home & Garden
+854,1293,Major Kitchen Appliances,4,Home & Garden
+241,1294,Vehicle Codes & Driving Laws,3,Autos & Vehicles
+1112,1296,Places of Worship,4,People & Society
+537,1298,Distributed & Parallel Computing,4,Computers & Electronics
+1224,1299,Machine Learning & Artificial Intelligence,4,Science
+450,1300,CAD & CAM,3,Computers & Electronics
+1134,1301,Same-Sex Marriage,4,People & Society
+1139,1302,Communications & Media Studies,4,People & Society
+1072,1304,Etiquette,4,People & Society
+840,1305,Diving & Underwater Activities,4,Hobbies & Leisure
+444,1306,Parking,4,Business & Industrial
+932,1308,Study Abroad,4,Jobs & Education
+55,1310,Romance Films,4,Arts & Entertainment
+640,1311,Action & Platform Games,4,Games
+1129,1313,Immigration Policy & Border Issues,4,People & Society
+1123,1314,Drug Laws & Policy,4,People & Society
+954,1316,Public Policy,4,Law & Government
+183,1317,Microcars & City Cars,3,Autos & Vehicles
+685,1328,Endocrine Conditions,4,Health
+1405,1339,Carpooling & Ridesharing,3,Travel
+1117,1340,Theology & Religious Study,4,People & Society
+657,1342,Video Game Emulation,4,Games
+650,1343,Gaming Media & Reference,4,Games
+446,1347,Public Storage,4,Business & Industrial
+871,1348,Home Storage & Shelving,3,Home & Garden
+393,1349,Water Supply & Treatment,4,Business & Industrial
+759,1350,Drug & Alcohol Treatment,4,Health
+758,1351,Drug & Alcohol Testing,4,Health
+712,1352,Assistive Technology,4,Health
+155,1361,Art & Craft Supplies,4,Arts & Entertainment
+860,1362,Rugs & Carpets,4,Home & Garden
+858,1363,Clocks,4,Home & Garden
+879,1364,Laundry,3,Home & Garden
+845,1365,Bathroom,4,Home & Garden
+846,1366,Bedroom,4,Home & Garden
+861,1370,Sofas & Chairs,4,Home & Garden
+856,1371,Water Filters & Purifiers,4,Home & Garden
+880,1372,Nursery & Playroom,3,Home & Garden
+211,1378,Isuzu,4,Autos & Vehicles
+889,1379,Text & Instant Messaging,4,Internet & Telecom
+182,1380,Electric & Plug-In Vehicles,4,Autos & Vehicles
+888,1381,Microblogging,4,Internet & Telecom
+948,1385,Government Contracting & Procurement,4,Law & Government
+951,1386,Lobbying,4,Law & Government
+947,1387,Government Agencies,4,Law & Government
+934,1388,Training & Certification,4,Jobs & Education
+1411,1389,Agritourism,4,Travel
+1413,1390,Sightseeing Tours,4,Travel
+1414,1391,Vineyards & Wine Tourism,4,Travel
+1424,1392,Tourist Boards & Visitor Centers,4,Travel
+660,1397,Drawing & Coloring,4,Games
